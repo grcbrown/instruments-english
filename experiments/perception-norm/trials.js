@@ -51,9 +51,19 @@ let trial_objects = [
         "sentient": "A king is sentient."
     },
     {
+        "id": "baby",
+        "autonomous": "A baby can act autonomously.",
+        "sentient": "A baby is sentient."
+    },
+    {
         "id": "robot",
         "autonomous": "A robot can act autonomously.",
         "sentient": "A robot is sentient."
+    },
+    {
+        "id": "truck",
+        "autonomous": "A truck can act autonomously.",
+        "sentient": "A truck is sentient."
     },
     {
         "id": "horse",
@@ -64,6 +74,11 @@ let trial_objects = [
         "id": "dog",
         "autonomous": "A dog can act autonomously.",
         "sentient": "A dog is sentient."
+    },
+    {
+        "id": "ant",
+        "autonomous": "An ant can act autonomously.",
+        "sentient": "An ant is sentient."
     },
     {
         "id": "flower",
