@@ -1,0 +1,141 @@
+rt,stimulus,response,trial_type,trial_index,plugin_version,time_elapsed,subject_id,study_id,session_id,id,question_order,source_file,sentient,autonomous
+11641,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,11648,,,,,,ca6nl5rqb3.csv,,
+12237,,"{""sentient"":4,""autonomous"":5}",survey-likert,1,2.1.0,23902,,,,horse,"[0,1]",ca6nl5rqb3.csv,4.0,5.0
+5009,,"{""sentient"":4,""autonomous"":5}",survey-likert,2,2.1.0,28924,,,,dog,"[0,1]",ca6nl5rqb3.csv,4.0,5.0
+20893,,"{""sentient"":0,""autonomous"":2}",survey-likert,3,2.1.0,49834,,,,gun,"[0,1]",ca6nl5rqb3.csv,0.0,2.0
+10297,,"{""sentient"":1,""autonomous"":1}",survey-likert,4,2.1.0,60149,,,,broom,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+7115,,"{""sentient"":5,""autonomous"":5}",survey-likert,5,2.1.0,67280,,,,nurse,"[0,1]",ca6nl5rqb3.csv,5.0,5.0
+7430,,"{""sentient"":1,""autonomous"":1}",survey-likert,6,2.1.0,74722,,,,truck,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+7508,,"{""sentient"":5,""autonomous"":5}",survey-likert,7,2.1.0,82245,,,,king,"[0,1]",ca6nl5rqb3.csv,5.0,5.0
+6965,,"{""sentient"":5,""autonomous"":5}",survey-likert,8,2.1.0,89225,,,,chef,"[0,1]",ca6nl5rqb3.csv,5.0,5.0
+6119,,"{""sentient"":5,""autonomous"":5}",survey-likert,9,2.1.0,95355,,,,teacher,"[0,1]",ca6nl5rqb3.csv,5.0,5.0
+5880,,"{""sentient"":1,""autonomous"":1}",survey-likert,10,2.1.0,101251,,,,drill,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+8726,,"{""sentient"":3,""autonomous"":3}",survey-likert,11,2.1.0,109980,,,,baby,"[0,1]",ca6nl5rqb3.csv,3.0,3.0
+14458,,"{""sentient"":2,""autonomous"":2}",survey-likert,12,2.1.0,124443,,,,flower,"[0,1]",ca6nl5rqb3.csv,2.0,2.0
+4682,,"{""sentient"":1,""autonomous"":1}",survey-likert,13,2.1.0,129129,,,,screwdriver,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+18146,,"{""sentient"":1,""autonomous"":1}",survey-likert,14,2.1.0,147279,,,,spoon,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+7468,,"{""sentient"":4,""autonomous"":4}",survey-likert,15,2.1.0,154753,,,,ant,"[0,1]",ca6nl5rqb3.csv,4.0,4.0
+6220,,"{""sentient"":3,""autonomous"":3}",survey-likert,16,2.1.0,160977,,,,robot,"[0,1]",ca6nl5rqb3.csv,3.0,3.0
+4439,,"{""sentient"":1,""autonomous"":1}",survey-likert,17,2.1.0,165420,,,,pencil,"[0,1]",ca6nl5rqb3.csv,1.0,1.0
+5021,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,170445,,,,,,ca6nl5rqb3.csv,,
+33226,,"{""clarity"":""Yes"",""suggestions"":""-"",""comments"":""🫦""}",survey,19,3.0.0,203733,,,,,,ca6nl5rqb3.csv,,
+34994,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,35014,,,,,,dmj4xo5z8j.csv,,
+14215,,"{""sentient"":0,""autonomous"":0}",survey-likert,1,2.1.0,49237,,,,gun,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+10258,,"{""sentient"":6,""autonomous"":5}",survey-likert,2,2.1.0,59500,,,,nurse,"[0,1]",dmj4xo5z8j.csv,6.0,5.0
+13002,,"{""sentient"":4,""autonomous"":4}",survey-likert,3,2.1.0,72507,,,,ant,"[0,1]",dmj4xo5z8j.csv,4.0,4.0
+11132,,"{""sentient"":4,""autonomous"":5}",survey-likert,4,2.1.0,83644,,,,horse,"[0,1]",dmj4xo5z8j.csv,4.0,5.0
+15150,,"{""sentient"":0,""autonomous"":0}",survey-likert,5,2.1.0,98798,,,,spoon,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+24286,,"{""sentient"":0,""autonomous"":0}",survey-likert,6,2.1.0,123088,,,,broom,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+5293,,"{""sentient"":0,""autonomous"":0}",survey-likert,7,2.1.0,128385,,,,truck,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+13796,,"{""sentient"":6,""autonomous"":5}",survey-likert,8,2.1.0,142185,,,,chef,"[0,1]",dmj4xo5z8j.csv,6.0,5.0
+5843,,"{""sentient"":6,""autonomous"":6}",survey-likert,9,2.1.0,148033,,,,king,"[0,1]",dmj4xo5z8j.csv,6.0,6.0
+7205,,"{""sentient"":0,""autonomous"":0}",survey-likert,10,2.1.0,155243,,,,screwdriver,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+8331,,"{""sentient"":0,""autonomous"":0}",survey-likert,11,2.1.0,163578,,,,pencil,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+18852,,"{""sentient"":1,""autonomous"":5}",survey-likert,12,2.1.0,182434,,,,robot,"[0,1]",dmj4xo5z8j.csv,1.0,5.0
+10428,,"{""sentient"":4,""autonomous"":4}",survey-likert,13,2.1.0,192866,,,,baby,"[0,1]",dmj4xo5z8j.csv,4.0,4.0
+6094,,"{""sentient"":6,""autonomous"":5}",survey-likert,14,2.1.0,198963,,,,teacher,"[0,1]",dmj4xo5z8j.csv,6.0,5.0
+7257,,"{""sentient"":0,""autonomous"":0}",survey-likert,15,2.1.0,206224,,,,drill,"[0,1]",dmj4xo5z8j.csv,0.0,0.0
+16306,,"{""sentient"":1,""autonomous"":4}",survey-likert,16,2.1.0,222533,,,,flower,"[0,1]",dmj4xo5z8j.csv,1.0,4.0
+8803,,"{""sentient"":4,""autonomous"":5}",survey-likert,17,2.1.0,231339,,,,dog,"[0,1]",dmj4xo5z8j.csv,4.0,5.0
+5156,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,236499,,,,,,dmj4xo5z8j.csv,,
+23129,,"{""clarity"":""Yes"",""suggestions"":null,""comments"":null}",survey,19,3.0.0,259686,,,,,,dmj4xo5z8j.csv,,
+1722,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,1732,,,,,,g2crp48les.csv,,
+10312,,"{""sentient"":0,""autonomous"":0}",survey-likert,1,2.1.0,12046,,,,broom,"[0,1]",g2crp48les.csv,0.0,0.0
+4605,,"{""sentient"":0,""autonomous"":0}",survey-likert,2,2.1.0,16656,,,,pencil,"[0,1]",g2crp48les.csv,0.0,0.0
+56495,,"{""sentient"":4,""autonomous"":1}",survey-likert,3,2.1.0,73159,,,,flower,"[0,1]",g2crp48les.csv,4.0,1.0
+12329,,"{""sentient"":6,""autonomous"":6}",survey-likert,4,2.1.0,85495,,,,dog,"[0,1]",g2crp48les.csv,6.0,6.0
+5245,,"{""sentient"":0,""autonomous"":0}",survey-likert,5,2.1.0,90748,,,,spoon,"[0,1]",g2crp48les.csv,0.0,0.0
+5513,,"{""sentient"":0,""autonomous"":0}",survey-likert,6,2.1.0,96270,,,,truck,"[0,1]",g2crp48les.csv,0.0,0.0
+3109,,"{""sentient"":0,""autonomous"":0}",survey-likert,7,2.1.0,99388,,,,gun,"[0,1]",g2crp48les.csv,0.0,0.0
+4130,,"{""sentient"":6,""autonomous"":6}",survey-likert,8,2.1.0,103526,,,,nurse,"[0,1]",g2crp48les.csv,6.0,6.0
+5178,,"{""sentient"":0,""autonomous"":0}",survey-likert,9,2.1.0,108712,,,,drill,"[0,1]",g2crp48les.csv,0.0,0.0
+5478,,"{""sentient"":6,""autonomous"":6}",survey-likert,10,2.1.0,114198,,,,king,"[0,1]",g2crp48les.csv,6.0,6.0
+3128,,"{""sentient"":6,""autonomous"":6}",survey-likert,11,2.1.0,117334,,,,chef,"[0,1]",g2crp48les.csv,6.0,6.0
+2912,,"{""sentient"":0,""autonomous"":0}",survey-likert,12,2.1.0,120254,,,,screwdriver,"[0,1]",g2crp48les.csv,0.0,0.0
+3493,,"{""sentient"":6,""autonomous"":6}",survey-likert,13,2.1.0,123756,,,,teacher,"[0,1]",g2crp48les.csv,6.0,6.0
+9144,,"{""sentient"":6,""autonomous"":6}",survey-likert,14,2.1.0,132909,,,,ant,"[0,1]",g2crp48les.csv,6.0,6.0
+2861,,"{""sentient"":6,""autonomous"":6}",survey-likert,15,2.1.0,135778,,,,horse,"[0,1]",g2crp48les.csv,6.0,6.0
+22405,,"{""sentient"":6,""autonomous"":2}",survey-likert,16,2.1.0,158190,,,,baby,"[0,1]",g2crp48les.csv,6.0,2.0
+5912,,"{""sentient"":0,""autonomous"":0}",survey-likert,17,2.1.0,164111,,,,robot,"[0,1]",g2crp48les.csv,0.0,0.0
+1251,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,165371,,,,,,g2crp48les.csv,,
+45505,,"{""clarity"":""I had to look them up. "",""suggestions"":""I don’t think there are better words to use in place of these. "",""comments"":""No""}",survey,19,3.0.0,210941,,,,,,g2crp48les.csv,,
+88033,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,88043,,,,,,h3fyv8e7xk.csv,,
+10685,,"{""sentient"":0,""autonomous"":0}",survey-likert,1,2.1.0,98735,,,,truck,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+3113,,"{""sentient"":0,""autonomous"":0}",survey-likert,2,2.1.0,101853,,,,drill,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+4351,,"{""sentient"":0,""autonomous"":0}",survey-likert,3,2.1.0,106211,,,,broom,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+2774,,"{""sentient"":0,""autonomous"":0}",survey-likert,4,2.1.0,108991,,,,screwdriver,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+5402,,"{""sentient"":6,""autonomous"":6}",survey-likert,5,2.1.0,114399,,,,horse,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+3472,,"{""sentient"":0,""autonomous"":0}",survey-likert,6,2.1.0,117876,,,,gun,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+8332,,"{""sentient"":6,""autonomous"":6}",survey-likert,7,2.1.0,126214,,,,flower,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2773,,"{""sentient"":6,""autonomous"":6}",survey-likert,8,2.1.0,128994,,,,dog,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2872,,"{""sentient"":0,""autonomous"":0}",survey-likert,9,2.1.0,131872,,,,robot,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+2689,,"{""sentient"":6,""autonomous"":6}",survey-likert,10,2.1.0,134567,,,,chef,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2557,,"{""sentient"":6,""autonomous"":6}",survey-likert,11,2.1.0,137130,,,,ant,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2791,,"{""sentient"":6,""autonomous"":6}",survey-likert,12,2.1.0,139926,,,,baby,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2739,,"{""sentient"":6,""autonomous"":6}",survey-likert,13,2.1.0,142672,,,,king,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+3173,,"{""sentient"":0,""autonomous"":0}",survey-likert,14,2.1.0,145850,,,,spoon,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+2672,,"{""sentient"":6,""autonomous"":6}",survey-likert,15,2.1.0,148528,,,,teacher,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2574,,"{""sentient"":6,""autonomous"":6}",survey-likert,16,2.1.0,151108,,,,nurse,"[0,1]",h3fyv8e7xk.csv,6.0,6.0
+2588,,"{""sentient"":0,""autonomous"":0}",survey-likert,17,2.1.0,153704,,,,pencil,"[0,1]",h3fyv8e7xk.csv,0.0,0.0
+3351,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,157060,,,,,,h3fyv8e7xk.csv,,
+13567,,"{""clarity"":""yes"",""comments"":""nope"",""suggestions"":null}",survey,19,3.0.0,170686,,,,,,h3fyv8e7xk.csv,,
+1056,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,1067,,,,,,ht0xhn50qb.csv,,
+4030,,"{""sentient"":0,""autonomous"":0}",survey-likert,1,2.1.0,5100,,,,flower,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+3495,,"{""sentient"":6,""autonomous"":6}",survey-likert,2,2.1.0,8602,,,,king,"[0,1]",ht0xhn50qb.csv,6.0,6.0
+5105,,"{""sentient"":0,""autonomous"":0}",survey-likert,3,2.1.0,13718,,,,gun,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+3421,,"{""sentient"":6,""autonomous"":6}",survey-likert,4,2.1.0,17151,,,,chef,"[0,1]",ht0xhn50qb.csv,6.0,6.0
+3576,,"{""sentient"":6,""autonomous"":5}",survey-likert,5,2.1.0,20734,,,,nurse,"[0,1]",ht0xhn50qb.csv,6.0,5.0
+7047,,"{""sentient"":4,""autonomous"":5}",survey-likert,6,2.1.0,27790,,,,dog,"[0,1]",ht0xhn50qb.csv,4.0,5.0
+3487,,"{""sentient"":0,""autonomous"":0}",survey-likert,7,2.1.0,31289,,,,broom,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+4946,,"{""sentient"":0,""autonomous"":1}",survey-likert,8,2.1.0,36246,,,,drill,"[0,1]",ht0xhn50qb.csv,0.0,1.0
+6210,,"{""sentient"":4,""autonomous"":2}",survey-likert,9,2.1.0,42465,,,,baby,"[0,1]",ht0xhn50qb.csv,4.0,2.0
+4486,,"{""sentient"":6,""autonomous"":6}",survey-likert,10,2.1.0,46962,,,,teacher,"[0,1]",ht0xhn50qb.csv,6.0,6.0
+2825,,"{""sentient"":0,""autonomous"":0}",survey-likert,11,2.1.0,49794,,,,pencil,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+6991,,"{""sentient"":1,""autonomous"":4}",survey-likert,12,2.1.0,56791,,,,robot,"[0,1]",ht0xhn50qb.csv,1.0,4.0
+6333,,"{""sentient"":0,""autonomous"":1}",survey-likert,13,2.1.0,63126,,,,truck,"[0,1]",ht0xhn50qb.csv,0.0,1.0
+7329,,"{""sentient"":4,""autonomous"":5}",survey-likert,14,2.1.0,70460,,,,horse,"[0,1]",ht0xhn50qb.csv,4.0,5.0
+4730,,"{""sentient"":4,""autonomous"":2}",survey-likert,15,2.1.0,75196,,,,ant,"[0,1]",ht0xhn50qb.csv,4.0,2.0
+3724,,"{""sentient"":0,""autonomous"":0}",survey-likert,16,2.1.0,78926,,,,screwdriver,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+2776,,"{""sentient"":0,""autonomous"":0}",survey-likert,17,2.1.0,81708,,,,spoon,"[0,1]",ht0xhn50qb.csv,0.0,0.0
+1038,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,82750,,,,,,ht0xhn50qb.csv,,
+45028,,"{""clarity"":""they felt easy to understand. autonomous was a bit more confusing than sentient"",""suggestions"":""maybe \""act on its own\"" could be used in place of autonomous"",""comments"":null}",survey,19,3.0.0,127803,,,,,,ht0xhn50qb.csv,,
+5162,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,5186,,,,,,n4ddhbuea7.csv,,
+13011,,"{""sentient"":6,""autonomous"":6}",survey-likert,1,2.1.0,18207,,,,king,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+7997,,"{""sentient"":0,""autonomous"":0}",survey-likert,2,2.1.0,26209,,,,pencil,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+5438,,"{""sentient"":0,""autonomous"":0}",survey-likert,3,2.1.0,31657,,,,gun,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+8165,,"{""sentient"":6,""autonomous"":6}",survey-likert,4,2.1.0,39830,,,,teacher,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+3251,,"{""sentient"":6,""autonomous"":6}",survey-likert,5,2.1.0,43089,,,,dog,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+6894,,"{""sentient"":0,""autonomous"":0}",survey-likert,6,2.1.0,49993,,,,screwdriver,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+3617,,"{""sentient"":6,""autonomous"":6}",survey-likert,7,2.1.0,53619,,,,chef,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+4536,,"{""sentient"":0,""autonomous"":0}",survey-likert,8,2.1.0,58164,,,,broom,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+7429,,"{""sentient"":6,""autonomous"":5}",survey-likert,9,2.1.0,65602,,,,ant,"[0,1]",n4ddhbuea7.csv,6.0,5.0
+16623,,"{""sentient"":1,""autonomous"":1}",survey-likert,10,2.1.0,82234,,,,robot,"[0,1]",n4ddhbuea7.csv,1.0,1.0
+3382,,"{""sentient"":6,""autonomous"":6}",survey-likert,11,2.1.0,85624,,,,nurse,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+16873,,"{""sentient"":6,""autonomous"":6}",survey-likert,12,2.1.0,102505,,,,baby,"[0,1]",n4ddhbuea7.csv,6.0,6.0
+4620,,"{""sentient"":0,""autonomous"":0}",survey-likert,13,2.1.0,107134,,,,truck,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+3375,,"{""sentient"":0,""autonomous"":0}",survey-likert,14,2.1.0,110519,,,,flower,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+3528,,"{""sentient"":5,""autonomous"":5}",survey-likert,15,2.1.0,114055,,,,horse,"[0,1]",n4ddhbuea7.csv,5.0,5.0
+8296,,"{""sentient"":0,""autonomous"":0}",survey-likert,16,2.1.0,122360,,,,spoon,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+4823,,"{""sentient"":0,""autonomous"":0}",survey-likert,17,2.1.0,127192,,,,drill,"[0,1]",n4ddhbuea7.csv,0.0,0.0
+1667,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,128871,,,,,,n4ddhbuea7.csv,,
+4696,,"{""clarity"":null,""suggestions"":null,""comments"":null}",survey,19,3.0.0,133662,,,,,,n4ddhbuea7.csv,,
+14449,"Hello! Thank you so much for helping me out. I'm going to show you a series of statements about different beings (people, objects, etc.), and you will have to indicate on a scale how much you agree with each statement. <br><br> The purpose of this task is to aid in the experimental design process for one of my research projects. I won't be sharing your responses with anyone! <br><br> To start the rating task, click 'Continue'.<br><br>",0,html-button-response,0,2.1.0,14462,,,,,,vjlqpnewve.csv,,
+52494,,"{""sentient"":5,""autonomous"":4}",survey-likert,1,2.1.0,66988,,,,ant,"[0,1]",vjlqpnewve.csv,5.0,4.0
+19422,,"{""sentient"":0,""autonomous"":0}",survey-likert,2,2.1.0,86421,,,,drill,"[0,1]",vjlqpnewve.csv,0.0,0.0
+125528,,"{""sentient"":1,""autonomous"":1}",survey-likert,3,2.1.0,211953,,,,flower,"[0,1]",vjlqpnewve.csv,1.0,1.0
+6997,,"{""sentient"":6,""autonomous"":6}",survey-likert,4,2.1.0,218960,,,,dog,"[0,1]",vjlqpnewve.csv,6.0,6.0
+3886,,"{""sentient"":6,""autonomous"":6}",survey-likert,5,2.1.0,222858,,,,horse,"[0,1]",vjlqpnewve.csv,6.0,6.0
+54411,,"{""sentient"":6,""autonomous"":5}",survey-likert,6,2.1.0,277274,,,,king,"[0,1]",vjlqpnewve.csv,6.0,5.0
+32562,,"{""sentient"":6,""autonomous"":6}",survey-likert,7,2.1.0,309841,,,,nurse,"[0,1]",vjlqpnewve.csv,6.0,6.0
+18090,,"{""sentient"":0,""autonomous"":0}",survey-likert,8,2.1.0,327935,,,,gun,"[0,1]",vjlqpnewve.csv,0.0,0.0
+30163,,"{""sentient"":6,""autonomous"":5}",survey-likert,9,2.1.0,358107,,,,teacher,"[0,1]",vjlqpnewve.csv,6.0,5.0
+18985,,"{""sentient"":0,""autonomous"":0}",survey-likert,10,2.1.0,377105,,,,truck,"[0,1]",vjlqpnewve.csv,0.0,0.0
+4750,,"{""sentient"":0,""autonomous"":0}",survey-likert,11,2.1.0,381859,,,,spoon,"[0,1]",vjlqpnewve.csv,0.0,0.0
+5878,,"{""sentient"":0,""autonomous"":0}",survey-likert,12,2.1.0,387741,,,,screwdriver,"[0,1]",vjlqpnewve.csv,0.0,0.0
+21743,,"{""sentient"":6,""autonomous"":6}",survey-likert,13,2.1.0,409489,,,,chef,"[0,1]",vjlqpnewve.csv,6.0,6.0
+3359,,"{""sentient"":0,""autonomous"":0}",survey-likert,14,2.1.0,412853,,,,broom,"[0,1]",vjlqpnewve.csv,0.0,0.0
+49386,,"{""sentient"":0,""autonomous"":1}",survey-likert,15,2.1.0,462242,,,,robot,"[0,1]",vjlqpnewve.csv,0.0,1.0
+18337,,"{""sentient"":5,""autonomous"":4}",survey-likert,16,2.1.0,480584,,,,baby,"[0,1]",vjlqpnewve.csv,5.0,4.0
+4812,,"{""sentient"":0,""autonomous"":0}",survey-likert,17,2.1.0,485400,,,,pencil,"[0,1]",vjlqpnewve.csv,0.0,0.0
+2760,"<p>You've completed the rating trials. On the next page, you'll see a short questionnaire. This questionnaire is optional, but your feedback would be greatly appreciated!</p>",0,html-button-response,18,2.1.0,488181,,,,,,vjlqpnewve.csv,,
+319834,,"{""clarity"":""Mostly."",""suggestions"":""I think has autonomy might be better? I got to all the tools and started second guessing my definitions. So much of industry is \""autonomous\"", but I wouldn't say it has autonomy."",""comments"":null}",survey,19,3.0.0,808237,,,,,,vjlqpnewve.csv,,
