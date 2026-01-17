@@ -5,6 +5,9 @@
   justify-content: center;   /* vertical centering */
   align-items: center;       /* horizontal centering */
   min-height: 100vh;         /* full viewport height */
+  max-width: 900px;  
+  padding-left: 80px;
+  padding-right: 80px;
   text-align: center;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 18px;

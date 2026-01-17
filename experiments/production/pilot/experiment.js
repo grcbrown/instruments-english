@@ -53,8 +53,8 @@ const trial_1 = {
     timeline: [
         {
             type: jsPsychCloze,
-            stimulus: jsPsych.timelineVariable('text'),
-            preamble: '<p>Type one word in the textbox to complete the sentence.</p>',
+            text: jsPsych.timelineVariable('text'),
+            prompt: '<p>Type one word in the textbox to complete the sentence.</p>',
             allow_blanks: false,
             button_text: 'Continue',
             data: {
@@ -73,8 +73,8 @@ const trial_2 = {
     timeline: [
         {
             type: jsPsychCloze,
-            stimulus: jsPsych.timelineVariable('text'),
-            preamble: '<p>Type one word in the textbox to complete the sentence.</p>',
+            text: jsPsych.timelineVariable('text'),
+            prompt: '<p>Type one word in the textbox to complete the sentence.</p>',
             allow_blanks: false,
             button_text: 'Continue',
             data: {
