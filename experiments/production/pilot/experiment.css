@@ -15,6 +15,21 @@
   line-height: 1.6;
 }
 
+.header_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 500px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.header {
+    font-size: 32px;
+}
+
 .gen_ins {
     border: 3px black solid;
     border-radius: 10px;
