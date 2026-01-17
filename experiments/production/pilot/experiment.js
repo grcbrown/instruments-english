@@ -47,6 +47,16 @@ const instructions = {
     response_ends_trial: true
 };
 
+const buffer = {
+  type: jsPsychHtmlKeyboardResponse,
+  choices: [""],
+  stimulus: `
+  <div class=\"header_container\"><div class=\"header\">Type one word in the textbox to complete each sentence.</div></div>
+  `,
+  response_ends_trial: false, 
+  trial_duration: 3000
+};
+
 //TRIALS//
 let trial_array_1 = create_tv_array(trial_objects_list_1);
 const trial_1 = {
@@ -214,8 +224,8 @@ var thanks = {
 
 //RUN
 // --- Define 8 condition timelines (identical structure) ---
-let condition_1_timeline = [irb, instructions, trial_1, transition, questionnaire, save_data, thanks];
-let condition_2_timeline = [irb, instructions, trial_2, transition, questionnaire, save_data, thanks];
+let condition_1_timeline = [irb, instructions, buffer, trial_1, transition, questionnaire, save_data, thanks];
+let condition_2_timeline = [irb, instructions, buffer, trial_2, transition, questionnaire, save_data, thanks];
 
 // --- Use DataPipe to assign participant condition ---
 async function createExperiment() {
