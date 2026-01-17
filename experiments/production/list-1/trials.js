@@ -1,142 +1,172 @@
 let trial_objects = [
     {
-        "text": "Angelo %% le patate con la padella.", 
+        "text": "The net %% the fish.", 
         "id": 1,
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Valentino %% la palla con la racchetta.",
+        "text": "The hoe %% the soil.",
         "id": 2, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Il sapone %% la tazza.",
+        "text": "The whisk %% the eggs.",
         "id": 3, 
         "subj": "instrument"
     },
     {
-        "text": "Il pestello %% l'aglio.",
+        "text": "The knife %% the bread.",
         "id": 4, 
         "subj": "instrument"
     },
     {
-        "text": "Federico %% il bancone con lo straccio.",
+        "text": "The brush %% the canvas.",
         "id": 5, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "La pietra %% la finestra.",
+        "text": "The racket %% the ball.",
         "id": 6, 
         "subj": "instrument"
     },
     {
-        "text": "Francesco %% la mela con il coltello.",
+        "text": "The screwdriver %% the screw.",
         "id": 7, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Il coltello %% la pane.",
+        "text": "The towel %% the mirror.",
         "id": 8, 
         "subj": "instrument"
     },
     {
-        "text": "Carlo %% l'uomo con la pistola.",
+        "text": "The rope %% the bucket",
         "id": 9, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Il bastone %% il tavolo.",
+        "text": "The axe %% the firewood.",
         "id": 10, 
         "subj": "instrument"
     },
     {
-        "text": "Daniela %% il pesce con la rete.",
+        "text": "The corkscrew %% the bottle.",
         "id": 11, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Vittoria %% la scarpa con il bastone.",
+        "text": "The gun %% the bird.",
         "id": 12, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Il cucchiaio di legno %% la zuppa.",
+        "text": "The sword %% the prisoner.",
         "id": 13, 
         "subj": "instrument"
     },
     {
-        "text": "La spugna %% la pentola. ",
+        "text": "The spoon %% the soup.",
         "id": 14, 
         "subj": "instrument"
     },
     {
-        "text": "La spada %% il prigioniero.",
+        "text": "The comb %% the curls.",
         "id": 15, 
         "subj": "instrument"
     },
     {
-        "text": "Donata %% la cassa con il piede di porco.",
+        "text": "The wrench %% the bolt.",
         "id": 16, 
-        "subj": "human"
+        "subj": "instrument"
     },
     {
-        "text": "Emilio %% il gelato con il cucchiaio.",
+        "text": "The needle %% the fabric.",
         "id": 17, 
+        "subj": "instrument"
+    },
+    {
+        "text": "Parker %% the board with the drill.",
+        "id": 18, 
         "subj": "human"
     },
     {
-        "text": "La pala %% la neve.",
-        "id": 18, 
-        "subj": "instrument"
-    },
-    {
-        "text": "Il carrello %% le scatole.",
+        "text": "Riley %% the paper with the pen.",
         "id": 19, 
-        "subj": "instrument"
+        "subj": "human"
     },
     {
-        "text": "La scopa %% il pavimento.",
+        "text": "Avery %% the dough with the rolling pin.",
         "id": 20, 
-        "subj": "instrument"
+        "subj": "human"
     },
     {
-        "text": "Lucia %% la ciambella alla barca con la corda.",
+        "text": "Morgan %% the portrait with the pencil.",
         "id": 21, 
         "subj": "human"
     },
     {
-        "text": "Paola %% il vaso con il martello.",
+        "text": "Alex %% the window with the rock.",
         "id": 22, 
         "subj": "human"
     },
     {
-        "text": "Rosario %% i cavi con il nastro.",
+        "text": "Taylor %% the patio with the broom.",
         "id": 23, 
         "subj": "human"
     },
     {
-        "text": "La trave %% il muro.",
+        "text": "Tyler %% the fertilizer with the trowel.",
         "id": 24, 
-        "subj": "instrument"
+        "subj": "human"
     },
     {
-        "text": "Alessandra %% la cornice con la colla.",
+        "text": "Pat %% the leaves with the rake.",
         "id": 25, 
         "subj": "human"
     },
     {
-        "text": "Stefania %% la macchina con la chiave.",
+        "text": "Cameron %% the wood with the vice.",
         "id": 26, 
         "subj": "human"
     },
     {
-        "text": "Il formaggio %% il topo.",
+        "text": "Jordan %% the soup with the ladle.",
         "id": 27, 
-        "subj": "instrument"
+        "subj": "human"
     },
     {
-        "text": "Il cavo %% il remorchio.",
+        "text": "Jesse %% the equation with the chalk.",
         "id": 28, 
-        "subj": "instrument"
+        "subj": "human"
+    },
+    {
+        "text": "Lee %% the axe with the file.",
+        "id": 29, 
+        "subj": "human"
+    },
+    {
+        "text": "Robin %% the counter with the rag.",
+        "id": 30, 
+        "subj": "human"
+    },
+    {
+        "text": "Charlie %% the garlic with the pestle.",
+        "id": 31, 
+        "subj": "human"
+    },
+    {
+        "text": "Quinn %% the car with the key.",
+        "id": 32, 
+        "subj": "human"
+    },
+    {
+        "text": "Casey %% the snow with the shovel.",
+        "id": 33, 
+        "subj": "human"
+    },
+    {
+        "text": "Rory %% the mistake with the eraser. ",
+        "id": 34, 
+        "subj": "human"
     }
-]
+];

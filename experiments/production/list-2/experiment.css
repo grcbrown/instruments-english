@@ -12,24 +12,18 @@
   line-height: 1.6;
 }
 
-/* === Progress Bar === */
-#jspsych-progressbar-container {
-  color: transparent; /* hides default text */
-  position: right; /* needed for positioning the pseudo-element */
+.gen_ins {
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 30px;
 }
 
-/* Insert your custom text */
-#jspsych-progressbar-container::before {
-  content: "Avanzamento";
-  color: black;        /* text color */
-  position: fixed;
-  margin: auto;
-  width: 50%;
-  text-align: center;  /* center the text */
-  left: 0;
-  top: 10;
+.spec_ins {
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 30px;
+    width: 60%
 }
-
 
 /* === Global Buttons === */
 .jspsych-content button {
