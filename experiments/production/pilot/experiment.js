@@ -54,7 +54,7 @@ const trial_1 = {
         {
             type: jsPsychCloze,
             text: jsPsych.timelineVariable('text'),
-            prompt: "Type one word in the textbox to complete the sentence.",
+            preamble: '<p>Type one word in the textbox to complete the sentence.</p>',
             allow_blanks: false,
             button_text: 'Continue',
             data: {
@@ -74,7 +74,7 @@ const trial_2 = {
         {
             type: jsPsychCloze,
             text: jsPsych.timelineVariable('text'),
-            prompt: "Type one word in the textbox to complete the sentence.",
+            preamble: '<p>Type one word in the textbox to complete the sentence.</p>',
             allow_blanks: false,
             button_text: 'Continue',
             data: {
@@ -107,7 +107,7 @@ const questionnaire = {
   survey_json: {
     showQuestionNumbers: "off",
     widthMode: "responsive",
-    completeText: "Completa",
+    completeText: "Finish",
     elements: [
       {
         type: "html",
