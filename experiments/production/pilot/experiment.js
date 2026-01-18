@@ -51,7 +51,7 @@ const buffer = {
   type: jsPsychHtmlKeyboardResponse,
   choices: [""],
   stimulus: `
-  <div class=\"header_container\"><div class=\"header\">Type one word in the textbox to complete each sentence.</div></div>
+  <div class=\"header_container\"><div class=\"header\">Type one word to complete each sentence</div></div>
   `,
   response_ends_trial: false, 
   trial_duration: 3000
