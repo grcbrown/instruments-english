@@ -103,7 +103,7 @@ const transition = {
     type: jsPsychHtmlButtonResponse,
     stimulus: `
     <div class="gen_ins"; style="font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;">
-        <p>You have completed the fill-in-the-blank trials. Next, you will be directed to an optional survey/</p>
+        <p>You have completed the fill-in-the-blank trials. Next, you will be directed to an optional survey.</p>
         <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
         <p>Click ‘Continue’ to proceed to the survey.</p>
     </div>
@@ -218,7 +218,7 @@ var thanks = {
   type: jsPsychHtmlKeyboardResponse,
   stimulus: `<p>You've finished the pilot study. Thank you for your time! </p>
     <br><br>
-    <p> <a href="https://app.prolific.com/submissions/complete?cc=C1ASD33E"> Click here to return to Prolific and complete the study</a>.</p>`,
+    <p> <a href="https://app.prolific.com/submissions/complete?cc=C1AIAUN3"> Click here to return to Prolific and complete the study</a>.</p>`,
   choices: "NO_KEYS"
 };
 
