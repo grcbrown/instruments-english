@@ -1,244 +1,577 @@
-
-let trial_objects = [
+let trial_objects_1 = [
     {
-        "text": "Angelo ha bruciato le patate con la padella.", 
+        "text": "The fishing pole caught the fish.", 
         "id": 1,
-        "subj": "human",
-        "mobile": "Angelo si \u00E8 mosso.",
-        "volition": "Angelo ha agito di propria iniziativa.",
-        "sentient": "Angelo \u00E8 senziente.",
-        "instigation": "\u00C8 stato Angelo a far s\u00EC che le patate si bruciassero.",
-        "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
+        "subj": "instrument",
+        "mobile": "The fishing pole moved.",
+        "volition": "The fishing pole acted autonomously.",
+        "sentient": "The fishing pole is sentient.",
+        "potent": "The fishing pole generated its own energy to catch the fish.",
+        "instigation": "The fishing pole caused the catching of the fish.",
+        "qualpersist": "The fishing pole did not change during the event."
     },
     {
-        "text": "Valentino ha colpito la palla con la racchetta.",
+        "text": "Parker beat the eggs with the whisk.",
         "id": 2, 
         "subj": "human",
-        "mobile": "Valentino si \u00E8 mosso.",
-        "volition": "Valentino ha agito di propria iniziativa.",
-        "sentient": "Valentino \u00E8 senziente.",
-        "instigation": "\u00C8 stato Valentino a far s\u00EC che la palla venisse colpita.",
-        "qualpersist": "Valentino non \u00E8 cambiato durante l'evento."
+        "mobile": "Parker moved.",
+        "volition": "Parker acted autonomously.",
+        "potent": "Parker generated their own energy to beat the eggs.",
+        "sentient": "Parker is sentient.",
+        "instigation": "Parker caused the beating of the eggs.",
+        "qualpersist": "Parker did not change during the event."
     },
     {
-        "text": "Il sapone ha lavato la tazza.",
+        "text": "The knife cut the bread.",
         "id": 3, 
         "subj": "instrument",
-        "mobile": "Il sapone si \u00E8 mosso.",
-        "volition": "Il sapone ha agito di propria iniziativa.",
-        "sentient": "Il sapone \u00E8 senziente.",
-        "instigation": "\u00C8 stato il sapone a far s\u00EC che la tazza fosse lavata.",
-        "qualpersist": "Il sapone non \u00E8 cambiato durante l'evento."
+        "mobile": "The knife moved.",
+        "volition": "The knife acted autonomously.",
+        "potent": "The knife generated its own energy to cut the bread.",
+        "sentient": "The knife is sentient.",
+        "instigation": "The knife caused the cutting of the bread.",
+        "qualpersist": "The knife did not change during the event."
     },
     {
-        "text": "Il pestello ha macinato l'aglio.",
+        "text": "Riley stirred the soup with the spoon.",
         "id": 4, 
-        "subj": "instrument",
-        "mobile": "Il pestello si \u00E8 mosso.",
-        "volition": "Il pestello ha agito di propria iniziativa.",
-        "sentient": "Il pestello \u00E8 senziente.",
-        "instigation": "\u00C8 stato il pestello a far s\u00EC che l'aglio venisse macinato.",
-        "qualpersist": "Il pestello non \u00E8 cambiato durante l'evento."
+        "subj": "human",
+        "mobile": "Riley moved.",
+        "volition": "Riley acted autonomously.",
+        "potent": "Riley generated their own energy to stir the soup.",
+        "sentient": "Riley is sentient.",
+        "instigation": "Riley caused the stirring of the soup.",
+        "qualpersist": "Riley did not change during the event."
     },
     {
-        "text": "Federico ha pulito il bancone con lo straccio.",
+        "text": "The pestle crushed the garlic.",
         "id": 5, 
-        "subj": "human",
-        "mobile": "Federico si \u00E8 mosso.",
-        "volition": "Federico ha agito di propria iniziativa.",
-        "sentient": "Federico \u00E8 senziente.",
-        "instigation": "\u00C8 stato Valentino a far s\u00EC che il bancone fosse pulito.",
-        "qualpersist": "Federico non \u00E8 cambiato durante l'evento."
+        "subj": "instrument",
+        "mobile": "The pestle moved.",
+        "volition": "The pestle acted autonomously.",
+        "potent": "The pestle generated its own energy to crush the garlic.",
+        "sentient": "The pestle is sentient.",
+        "instigation": "The pestle caused the crushing of the garlic.",
+        "qualpersist": "The pestle did not change during the event."
     },
     {
-        "text": "La pietra ha rotto la finestra.",
+        "text": "Avery flattened the dough with the rolling pin.",
         "id": 6, 
-        "subj": "instrument",
-        "mobile": "La pietra si \u00E8 mossa.",
-        "volition": "La pietra ha agito di propria iniziativa.",
-        "sentient": "La pietra \u00E8 senziente.",
-        "instigation": "\u00C8 stata la pietra a far s\u00EC che la finestra si rompesse.",
-        "qualpersist": "La pietra non \u00E8 cambiata durante l'evento."
+        "subj": "human",
+        "mobile": "Avery moved.",
+        "volition": "Avery acted autonomously.",
+        "potent": "Avery generated their own energy to flatten the dough.",
+        "sentient": "Avery is sentient.",
+        "instigation": "Avery caused the flattening of the dough.",
+        "qualpersist": "Avery did not change during the event."
     },
     {
-        "text": "Francesco ha sbucciato la mela con il coltello.",
+        "text": "The brush painted the portrait.",
         "id": 7, 
-        "subj": "human",
-        "mobile": "Francesco si \u00E8 mosso.",
-        "volition": "Francesco ha agito di propria iniziativa.",
-        "sentient": "Francesco \u00E8 senziente.",
-        "instigation": "\u00C8 stato Francesco a far s\u00EC che la mela venisse sbucciata.",
-        "qualpersist": "Francesco non \u00E8 cambiato durante l'evento."
+        "subj": "instrument",
+        "mobile": "The brush moved.",
+        "volition": "The brush acted autonomously.",
+        "potent": "The brush generated its own energy to paint the portrait.",
+        "sentient": "The bush is sentient.",
+        "instigation": "The brush caused the painting of the portrait.",
+        "qualpersist": "The brush did not change during the event."
     },
     {
-        "text": "Il coltello ha tagliato il pane.",
+        "text": "Morgan marked the paper with the pencil.",
         "id": 8, 
-        "subj": "instrument",
-        "mobile": "Il coltello si \u00E8 mosso.",
-        "volition": "Il coltello ha agito di propria iniziativa.",
-        "sentient": "Il coltello \u00E8 senziente.",
-        "instigation": "\u00C8 stato il coltello a far s\u00EC che il pane venisse tagliato.",
-        "qualpersist": "Il coltello non \u00E8 cambiato durante l'evento."
+        "subj": "human",
+        "mobile": "Morgan moved.",
+        "volition": "Morgan acted autonomously.",
+        "potent": "Morgan generated their own energy to mark the paper.",
+        "sentient": "Morgan is sentient.",
+        "instigation": "Morgan caused the marking of the paper.",
+        "qualpersist": "Morgan did not change during the event."
     },
     {
-        "text": "Carlo ha ucciso l'uomo con la pistola.",
+        "text": "The eraser removed the mark.",
         "id": 9, 
-        "subj": "human",
-        "mobile": "Carlo si \u00E8 mosso.",
-        "volition": "Carlo ha agito di propria iniziativa.",
-        "sentient": "Carlo \u00E8 senziente.",
-        "instigation": "\u00C8 stato Carlo a far s\u00EC che l'uomo venisse ucciso.",
-        "qualpersist": "Carlo non \u00E8 cambiato durante l'evento."
-    },
-    {
-        "text": "Il bastone ha urtato il tavolo.",
-        "id": 10, 
         "subj": "instrument",
-        "mobile": "Il bastone si \u00E8 mosso.",
-        "volition": "Il bastone ha agito di propria iniziativa.",
-        "sentient": "Il bastone \u00E8 senziente.",
-        "instigation": "\u00C8 stato il bastone a far s\u00EC che il tavolo venisse urtato.",
-        "qualpersist": "Il bastone non \u00E8 cambiato durante l'evento."
+        "mobile": "The eraser moved.",
+        "volition": "The eraser acted autonomously.",
+        "potent": "The eraser generated its own energy to remove the mark.",
+        "sentient": "The eraser is sentient.",
+        "instigation": "The eraser caused the removing of the mark.",
+        "qualpersist": "The eraser did not change during the event."
     },
     {
-        "text": "Daniela ha catturato il pesce con la rete.",
-        "id": 11, 
+        "text": "Alex hit the ball with the racket.",
+        "id": 10, 
         "subj": "human",
-        "mobile": "Daniela si \u00E8 mossa.",
-        "volition": "Daniela ha agito di propria iniziativa.",
-        "sentient": "Daniela \u00E8 senziente.",
-        "instigation": "\u00C8 stata Daniela a far s\u00EC che il pesce venisse catturato.",
-        "qualpersist": "Daniela non \u00E8 cambiata durante l'evento."
+        "mobile": "Alex moved.",
+        "volition": "Alex acted autonomously.",
+        "potent": "Alex generated their own energy to hit the ball.",
+        "sentient": "Alex is sentient.",
+        "instigation": "Alex caused the hitting of the ball.",
+        "qualpersist": "Alex did not change during the event."
     },
     {
-        "text": "Vittoria ha raschiato la scarpa con il bastone.",
+        "text": "The axe chopped the firewood.",
+        "id": 11, 
+        "subj": "instrument",
+        "mobile": "The axe moved.",
+        "volition": "The axe acted autonomously.",
+        "potent": "The axe generated its own energy to chop the firewood.",
+        "sentient": "The axe is sentient.",
+        "instigation": "The axe caused the chopping of the firewood.",
+        "qualpersist": "The axe did not change during the event."
+    },
+    {
+        "text": "Cameron beheaded the knight with the sword.",
         "id": 12, 
         "subj": "human",
-        "mobile": "Vittoria si \u00E8 mossa.",
-        "volition": "Vittoria ha agito di propria iniziativa.",
-        "sentient": "Vittoria \u00E8 senziente.",
-        "instigation": "\u00C8 stata Vittoria a far s\u00EC che la scarpa venisse raschiata.",
-        "qualpersist": "Vittoria non \u00E8 cambiata durante l'evento."
+        "mobile": "Cameron moved.",
+        "volition": "Cameron acted autonomously.",
+        "potent": "Cameron generated their own energy to behead the knight.",
+        "sentient": "Cameron is sentient.",
+        "instigation": "Cameron caused the beheading of the knight.",
+        "qualpersist": "Cameron did not change during the event."
     },
     {
-        "text": "Il cucchiaio di legno ha mescolato la zuppa.",
+        "text": "The wrench tightened the bolt.",
         "id": 13, 
         "subj": "instrument",
-        "mobile": "Il cucchiaio di legno si \u00E8 mosso.",
-        "volition": "Il cucchiaio di legno ha agito di propria iniziativa.",
-        "sentient": "Il cucchiaio di legno \u00E8 senziente.",
-        "instigation": "\u00C8 stato il cucchiaio di legno a far s\u00EC che la zuppa venisse mescolata.",
-        "qualpersist": "Il cucchiaio di legno non \u00E8 cambiato durante l'evento."
+        "mobile": "The wrench moved.",
+        "volition": "The wrench acted autonomously.",
+        "potent": "The wrench generated its own energy to tighten the bolt.",
+        "sentient": "The wrench is sentient.",
+        "instigation": "The wrench caused the tightening of the bolt.",
+        "qualpersist": "The wrench did not change during the event."
+    },
+    {
+        "text": "Tyler broke the window with the rock.",
+        "id": 14, 
+        "subj": "human",
+        "mobile": "Tyler moved.",
+        "volition": "Tyler acted autonomously.",
+        "potent": "Tyler generated their own energy to break the window.",
+        "sentient": "Tyler is sentient.",
+        "instigation": "Tyler caused the breaking of the window.",
+        "qualpersist": "Tyler did not change during the event."
+    },
+    {
+        "text": "The broom swept the patio.",
+        "id": 15, 
+        "subj": "instrument",
+        "mobile": "The broom moved.",
+        "volition": "The broom acted autonomously.",
+        "potent": "The broom generated its own energy to sweep the patio.",
+        "sentient": "The broom is sentient.",
+        "instigation": "The broom caused the sweeping of the patio.",
+        "qualpersist": "The broom did not change during the event."
+    },
+    {
+        "text": "Pat gathered the leaves with the rake.",
+        "id": 16, 
+        "subj": "human",
+        "mobile": "Pat moved.",
+        "volition": "Pat acted autonomously.",
+        "potent": "Pat generated their own energy to gather the leaves.",
+        "sentient": "Pat is sentient.",
+        "instigation": "Pat caused the gathering of the leaves.",
+        "qualpersist": "Pat did not change during the event."
+    },
+    {
+        "text": "The rag cleaned the counter.",
+        "id": 17, 
+        "subj": "instrument",
+        "mobile": "The rag moved.",
+        "volition": "The rag acted autonomously.",
+        "potent": "The rag generated its own energy to clean the counter.",
+        "sentient": "The rag is sentient.",
+        "instigation": "The rag caused the cleaning of the counter.",
+        "qualpersist": "The rag did not change during the event."
+    },
+    {
+        "text": "Taylor opened the safe with the key.",
+        "id": 18, 
+        "subj": "human",
+        "mobile": "Taylor moved.",
+        "volition": "Taylor acted autonomously.",
+        "potent": "Taylor generated their own energy to open the safe.",
+        "sentient": "Taylor is sentient.",
+        "instigation": "Taylor caused the opening of the safe.",
+        "qualpersist": "Taylor did not change during the event."
+    },
+    {
+        "text": "The shovel moved the soil.",
+        "id": 19, 
+        "subj": "instrument",
+        "mobile": "The shovel moved.",
+        "volition": "The shovel acted autonomously.",
+        "potent": "The shovel generated its own energy to move the soil.",
+        "sentient": "The shovel is sentient.",
+        "instigation": "The shovel caused the moving of the soil.",
+        "qualpersist": "The shovel did not change during the event."
+    },
+    {
+        "text": "Jordan illuminated the cave with the flashlight.",
+        "id": 20, 
+        "subj": "human",
+        "mobile": "Jordan moved.",
+        "volition": "Jordan acted autonomously.",
+        "potent": "Jordan generated their own energy to illuminate the cave.",
+        "sentient": "Jordan is sentient.",
+        "instigation": "Jordan caused the illumination of the cave.",
+        "qualpersist": "Jordan did not change during the event."
+    },
+    {
+        "text": "The gun killed the bird.",
+        "id": 21, 
+        "subj": "instrument",
+        "mobile": "The gun moved.",
+        "volition": "The gun acted autonomously.",
+        "potent": "The gun generated its own energy to kill the bird.",
+        "sentient": "The gun is sentient.",
+        "instigation": "The gun caused the killing of the bird.",
+        "qualpersist": "The gun did not change during the event."
+    },
+    {
+        "text": "Jesse cleaned the rug with the vacuum.",
+        "id": 22, 
+        "subj": "human",
+        "mobile": "Jesse moved.",
+        "volition": "Jesse acted autonomously.",
+        "potent": "Jesse generated their own energy to clean the rug.",
+        "sentient": "Jesse is sentient.",
+        "instigation": "Jesse caused the cleaning of the rug.",
+        "qualpersist": "Jesse did not change during the event."
+    },
+    {
+        "text": "The microwave defrosted the meat.",
+        "id": 23, 
+        "subj": "instrument",
+        "mobile": "The microwave moved.",
+        "volition": "The microwave acted autonomously.",
+        "potent": "The microwave generated its own energy to defrost the meat.",
+        "sentient": "The microwave is sentient.",
+        "instigation": "The microwave caused the defrosting of the meat.",
+        "qualpersist": "The microwave did not change during the event."
+    },
+    {
+        "text": "Lee cooled the room with the fan.",
+        "id": 24, 
+        "subj": "human",
+        "mobile": "Lee moved.",
+        "volition": "Lee acted autonomously.",
+        "potent": "Lee generated their own energy to cool the room.",
+        "sentient": "Lee is sentient.",
+        "instigation": "Lee caused the cooling of the room.",
+        "qualpersist": "Lee did not change during the event."
+    },
+    {
+        "text": "The chainsaw cut the tree.",
+        "id": 25, 
+        "subj": "instrument",
+        "mobile": "The chainsaw moved.",
+        "volition": "The chainsaw acted autonomously.",
+        "potent": "The chainsaw generated its own energy to cut the tree.",
+        "sentient": "The chainsaw is sentient.",
+        "instigation": "The chainsaw caused the cutting of the tree.",
+        "qualpersist": "The chainsaw did not change during the event."
+    },
+    {
+        "text": "Charlie lifted the steel beams with the crane.",
+        "id": 26, 
+        "subj": "human",
+        "mobile": "Charlie moved.",
+        "volition": "Charlie acted autonomously.",
+        "potent": "Charlie generated their own energy to lift the steel beams.",
+        "sentient": "Charlie is sentient.",
+        "instigation": "Charlie caused the lifting of the steel beams.",
+        "qualpersist": "Charlie did not change during the event."
     }
 ]
 
-    //{
-    //    "text": "La spugna ha strofinato la pentola. ",
-    //    "id": 14, 
-    //    "subj": "instrument"
-    //},
-    //{
-    //    "text": "La spada ha decapitato il prigioniero.",
-    //    "id": 15, 
-    //    "subj": "instrument"
-    //},
-   // {
-    //    "text": "Donata ha aperto la cassa con il piede di porco.",
-    //    "id": 16, 
-    //    "subj": "human",
-    //    "mobile": "Federico si \u00E8 mosso.",
-    //    "volition": "Federico ha agito di propria iniziativa.",
-    //    "sentient": "Federico \u00E8 senziente.",
-    //    "instigation": "\u00C8 stato Valentino a far s\u00EC che"
-    //    "qualpersist": "Federico non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "Emilio ha servito il gelato con il cucchiaio.",
-    //    "id": 17, 
-     //   "subj": "human",
-     //   "mobile": "Angelo si \u00E8 mosso.",
-     //   "volition": "Angelo ha agito di propria iniziativa.",
-     //   "sentient": "Angelo \u00E8 senziente.",
-     //   "instigation": "Angelo ha fatto bruciare le patate."
-     //   "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "La pala ha sgomberato la neve.",
-     //   "id": 18, 
-     //   "subj": "instrument"
-    //},
-    //{
-     ///   "text": "Il carrello ha spostato le scatole.",
-      //  "id": 19, 
-     //   "subj": "instrument"
-    //},
-    //{
-    //    "text": "La scopa ha spazzato il pavimento.",
-    //    "id": 20, 
-    //    "subj": "instrument"
-    //},
-    //{
-    //    "text": "Lucia ha attaccato la ciambella alla barca con la corda.",
-     //   "id": 21, 
-     //   "subj": "human",
-     //   "mobile": "Angelo si \u00E8 mosso.",
-     //   "volition": "Angelo ha agito di propria iniziativa.",
-    //    "sentient": "Angelo \u00E8 senziente.",
-    //    "instigation": "Angelo ha fatto bruciare le patate."
-    //    "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "Paola ha distrutto il vaso con il martello.",
-     //   "id": 22, 
-     //   "subj": "human",
-     //   "mobile": "Angelo si \u00E8 mosso.",
-     //   "volition": "Angelo ha agito di propria iniziativa.",
-     //   "sentient": "Angelo \u00E8 senziente.",
-     //   "instigation": "Angelo ha fatto bruciare le patate."
-     //   "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "Rosario ha fissato i cavi con il nastro.",
-    //    "id": 23, 
-    //    "subj": "human",
-    //    "mobile": "Angelo si \u00E8 mosso.",
-    //    "volition": "Angelo ha agito di propria iniziativa.",
-    //    "sentient": "Angelo \u00E8 senziente.",
-    //    "instigation": "Angelo ha fatto bruciare le patate."
-    //    "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "La trave ha rinforzato il muro.",
-    //    "id": 24, 
-    //    "subj": "instrument"
-    //},
-    //{
-    //    "text": "Alessandra ha riparato la cornice con la colla.",
-    //    "id": 25, 
-    //    "subj": "human",
-    //    "mobile": "Angelo si \u00E8 mosso.",
-    //    "volition": "Angelo ha agito di propria iniziativa.",
-    //    "sentient": "Angelo \u00E8 senziente.",
-    //    "instigation": "Angelo ha fatto bruciare le patate."
-    //    "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "Stefania ha sbloccato la macchina con la chiave.",
-    //    "id": 26, 
-    //    "subj": "human",
-    //    "mobile": "Angelo si \u00E8 mosso.",
-    //    "volition": "Angelo ha agito di propria iniziativa.",
-    //    "sentient": "Angelo \u00E8 senziente.",
-    //    "instigation": "Angelo ha fatto bruciare le patate."
-    //    "qualpersist": "Angelo non \u00E8 cambiato durante l'evento."
-    //},
-    //{
-    //    "text": "Il formaggio ha attirato il topo.",
-    //    "id": 27, 
-    //    "subj": "instrument"
-    //},
-    //{
-    //    "text": "Il cavo ha sollevato il rimorchio.",
-    //    "id": 28, 
-    //    "subj": "instrument"
-    //}
+let trial_objects_2 = [
+    {
+        "text": "Parker caught the fish with the fishing pole.", 
+        "id": 1,
+        "subj": "human",
+        "mobile": "Parker moved.",
+        "volition": "Parker acted autonomously.",
+        "sentient": "Parker is sentient.",
+        "potent": "Parker generated their own energy to catch the fish.",
+        "instigation": "Parker caused the catching of the fish.",
+        "qualpersist": "Parker did not change during the event."
+    },
+    {
+        "text": "The whisk beat the eggs.",
+        "id": 2, 
+        "subj": "instrument",
+        "mobile": "The whisk moved.",
+        "volition": "The whisk acted autonomously.",
+        "potent": "The whisk generated its own energy to beat the eggs.",
+        "sentient": "The whisk is sentient.",
+        "instigation": "The whisk caused the beating of the eggs.",
+        "qualpersist": "The whisk did not change during the event."
+    },
+    {
+        "text": "Riley cut the bread with the knife.",
+        "id": 3, 
+        "subj": "human",
+        "mobile": "Riley moved.",
+        "volition": "Riley acted autonomously.",
+        "potent": "Riley generated their own energy to cut the bread.",
+        "sentient": "Riley is sentient.",
+        "instigation": "Riley caused the cutting of the bread.",
+        "qualpersist": "Riley did not change during the event."
+    },
+    {
+        "text": "The spoon stirred the soup.",
+        "id": 4, 
+        "subj": "instrument",
+        "mobile": "The spoon moved.",
+        "volition": "The spoon acted autonomously.",
+        "potent": "The spoon generated its own energy to stir the soup.",
+        "sentient": "The spoon is sentient.",
+        "instigation": "The spoon caused the stirring of the soup.",
+        "qualpersist": "The spoon did not change during the event."
+    },
+    {
+        "text": "Avery crushed the garlic with the pestle.",
+        "id": 5, 
+        "subj": "human",
+        "mobile": "Avery moved.",
+        "volition": "Avery acted autonomously.",
+        "potent": "Avery generated their own energy to crush the garlic.",
+        "sentient": "Avery is sentient.",
+        "instigation": "Avery caused the crushing of the garlic.",
+        "qualpersist": "TAvery did not change during the event."
+    },
+    {
+        "text": "The rolling pin flattened the dough.",
+        "id": 6, 
+        "subj": "instrument",
+        "mobile": "The rolling pin moved.",
+        "volition": "The rolling pin acted autonomously.",
+        "potent": "The rolling pin generated its own energy to flatten the dough.",
+        "sentient": "The rolling pin is sentient.",
+        "instigation": "The rolling pin caused the flattening of the dough.",
+        "qualpersist": "The rolling pin did not change during the event."
+    },
+    {
+        "text": "Morgan painted the portrait with the brush.",
+        "id": 7, 
+        "subj": "human",
+        "mobile": "Morgan moved.",
+        "volition": "Morgan acted autonomously.",
+        "potent": "Morgan generated their own energy to paint the portrait.",
+        "sentient": "Morgan is sentient.",
+        "instigation": "Morgan caused the painting of the portrait.",
+        "qualpersist": "Morgan did not change during the event."
+    },
+    {
+        "text": "The pencil marked the paper.",
+        "id": 8, 
+        "subj": "instrument",
+        "mobile": "The pencil moved.",
+        "volition": "The pencil acted autonomously.",
+        "potent": "The pencil generated its own energy to mark the paper.",
+        "sentient": "The pencil is sentient.",
+        "instigation": "The pencil caused the marking of the paper.",
+        "qualpersist": "The pencil did not change during the event."
+    },
+    {
+        "text": "Alex removed the mark with the eraser.",
+        "id": 9, 
+        "subj": "human",
+        "mobile": "Alex moved.",
+        "volition": "Alex acted autonomously.",
+        "potent": "Alex generated their own energy to remove the mark.",
+        "sentient": "Alex is sentient.",
+        "instigation": "Alex caused the removing of the mark.",
+        "qualpersist": "Alex did not change during the event."
+    },
+    {
+        "text": "The racket hit the ball.",
+        "id": 10, 
+        "subj": "instrument",
+        "mobile": "The racket moved.",
+        "volition": "The racket acted autonomously.",
+        "potent": "The racket generated its own energy to hit the ball.",
+        "sentient": "The racket is sentient.",
+        "instigation": "The racket caused the hitting of the ball.",
+        "qualpersist": "The racket did not change during the event."
+    },
+    {
+        "text": "Cameron chopped the firewood with the axe.",
+        "id": 11, 
+        "subj": "human",
+        "mobile": "Cameron moved.",
+        "volition": "Cameron acted autonomously.",
+        "potent": "Cameron generated their own energy to chop the firewood.",
+        "sentient": "Cameron is sentient.",
+        "instigation": "Cameron caused the chopping of the firewood.",
+        "qualpersist": "Cameron did not change during the event."
+    },
+    {
+        "text": "The sword beheaded the knight.",
+        "id": 12, 
+        "subj": "instrument",
+        "mobile": "The sword moved.",
+        "volition": "The sword acted autonomously.",
+        "potent": "The sword generated its own energy to behead the knight.",
+        "sentient": "The sword is sentient.",
+        "instigation": "The sword caused the beheading of the knight.",
+        "qualpersist": "The sword did not change during the event."
+    },
+    {
+        "text": "Tyler tightened the bolt with the wrench.",
+        "id": 13, 
+        "subj": "human",
+        "mobile": "Tyler moved.",
+        "volition": "Tyler acted autonomously.",
+        "potent": "Tyler generated their own energy to tighten the bolt.",
+        "sentient": "Tyler is sentient.",
+        "instigation": "Tyler caused the tightening of the bolt.",
+        "qualpersist": "Tyler did not change during the event."
+    },
+    {
+        "text": "The rock broke the window.",
+        "id": 14, 
+        "subj": "instrument",
+        "mobile": "The rock moved.",
+        "volition": "The rock acted autonomously.",
+        "potent": "The rock generated its own energy to break the window.",
+        "sentient": "The rock is sentient.",
+        "instigation": "The rock caused the breaking of the window.",
+        "qualpersist": "The rock did not change during the event."
+    },
+    {
+        "text": "Pat swept the patio with the broom.",
+        "id": 15, 
+        "subj": "human",
+        "mobile": "Pat moved.",
+        "volition": "Pat acted autonomously.",
+        "potent": "Pat generated their own energy to sweep the patio.",
+        "sentient": "Pat is sentient.",
+        "instigation": "Pat caused the sweeping of the patio.",
+        "qualpersist": "Pat did not change during the event."
+    },
+    {
+        "text": "The rake gathered the leaves.",
+        "id": 16, 
+        "subj": "instrument",
+        "mobile": "The rake moved.",
+        "volition": "The rake acted autonomously.",
+        "potent": "The rake generated its own energy to gather the leaves.",
+        "sentient": "The rake is sentient.",
+        "instigation": "The rake caused the gathering of the leaves.",
+        "qualpersist": "The rake did not change during the event."
+    },
+    {
+        "text": "Taylor cleaned the counter with the rage.",
+        "id": 17, 
+        "subj": "human",
+        "mobile": "Taylor moved.",
+        "volition": "Taylor acted autonomously.",
+        "potent": "Taylor generated their own energy to clean the counter.",
+        "sentient": "Taylor is sentient.",
+        "instigation": "Taylor caused the cleaning of the counter.",
+        "qualpersist": "Taylor did not change during the event."
+    },
+    {
+        "text": "The key opened the safe.",
+        "id": 18, 
+        "subj": "instrument",
+        "mobile": "The key moved.",
+        "volition": "The key acted autonomously.",
+        "potent": "The key generated its own energy to open the safe.",
+        "sentient": "The key is sentient.",
+        "instigation": "The key caused the opening of the safe.",
+        "qualpersist": "The key did not change during the event."
+    },
+    {
+        "text": "Jordan moved the soil with the shovel.",
+        "id": 19, 
+        "subj": "human",
+        "mobile": "Jordan moved.",
+        "volition": "Jordan acted autonomously.",
+        "potent": "Jordan generated their own energy to move the soil.",
+        "sentient": "Jordan is sentient.",
+        "instigation": "Jordan caused the moving of the soil.",
+        "qualpersist": "Jordan did not change during the event."
+    },
+    {
+        "text": "The flashlight illuminated the cave.",
+        "id": 20, 
+        "subj": "instrument",
+        "mobile": "The flashlight moved.",
+        "volition": "The flashlight acted autonomously.",
+        "potent": "The flashlight generated its own energy to illuminate the cave.",
+        "sentient": "The flashlight is sentient.",
+        "instigation": "The flashlight caused the illumination of the cave.",
+        "qualpersist": "The flashlight did not change during the event."
+    },
+    {
+        "text": "Jesse killed the bird with the gun.",
+        "id": 21, 
+        "subj": "human",
+        "mobile": "Jesse moved.",
+        "volition": "Jesse acted autonomously.",
+        "potent": "Jesse generated their own energy to kill the bird.",
+        "sentient": "Jesse is sentient.",
+        "instigation": "Jesse caused the killing of the bird.",
+        "qualpersist": "Jesse did not change during the event."
+    },
+    {
+        "text": "The vacuum cleaned the rug.",
+        "id": 22, 
+        "subj": "instrument",
+        "mobile": "The vacuum moved.",
+        "volition": "The vacuum acted autonomously.",
+        "potent": "The vacuum generated its own energy to clean the rug.",
+        "sentient": "The vacuum is sentient.",
+        "instigation": "The vacuum caused the cleaning of the rug.",
+        "qualpersist": "The vacuum did not change during the event."
+    },
+    {
+        "text": "Lee defrosted the meat with the microwave.",
+        "id": 23, 
+        "subj": "human",
+        "mobile": "Lee moved.",
+        "volition": "Lee acted autonomously.",
+        "potent": "Lee generated their own energy to defrost the meat.",
+        "sentient": "Lee is sentient.",
+        "instigation": "Lee caused the defrosting of the meat.",
+        "qualpersist": "Lee did not change during the event."
+    },
+    {
+        "text": "The fan cooled the room.",
+        "id": 24, 
+        "subj": "instrument",
+        "mobile": "The fan moved.",
+        "volition": "The fan acted autonomously.",
+        "potent": "The fan generated its own energy to cool the room.",
+        "sentient": "The fan is sentient.",
+        "instigation": "The fan caused the cooling of the room.",
+        "qualpersist": "The fan did not change during the event."
+    },
+    {
+        "text": "Charlie cut the tree with the chainsaw.",
+        "id": 25, 
+        "subj": "human",
+        "mobile": "Charlie moved.",
+        "volition": "Charlie acted autonomously.",
+        "potent": "Charlie generated their own energy to cut the tree.",
+        "sentient": "Charlie is sentient.",
+        "instigation": "Charlie caused the cutting of the tree.",
+        "qualpersist": "Charlie did not change during the event."
+    },
+    {
+        "text": "The crane lifted the steel beams.",
+        "id": 26, 
+        "subj": "instrument",
+        "mobile": "The crane moved.",
+        "volition": "The crane acted autonomously.",
+        "potent": "The crane generated its own energy to lift the steel beams.",
+        "sentient": "The crane is sentient.",
+        "instigation": "The crane caused the lifting of the steel beams.",
+        "qualpersist": "The crane did not change during the event."
+    }
+]

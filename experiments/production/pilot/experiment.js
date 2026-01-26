@@ -40,7 +40,7 @@ const instructions = {
         <p>During this experiment, you will complete a fill-in-the-blank task. In a given trial, you will see an incomplete sentence, and you will be prompted to type a word to complete the sentence. There will be 34 trials, and this portion of the experiment is expected to take 10 minutes.</p>
         <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
         <p>This is a pilot. There may be bugs. </p>
-        <p>If you understand the instructions and are ready to begin the practice trials, click ‘Continue’.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
     </div>
     `, 
     choices: ['Continue'],
