@@ -1,0 +1,179 @@
+---
+title: "Instrument Perception - English Norming"
+author: "Grace Brown"
+date: "2026-01-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+
+knitr::opts_knit$set(root.dir = "/Users/gracebrown/instruments-english")
+setwd("/Users/gracebrown/instruments-english")
+
+# color-blind-friendly palette
+cbPalette <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+theme_set(theme_bw())
+```
+
+## Load Data
+```{r data}
+df <- read_csv("./data/pilot_combined_expanded.csv",
+               show_col_types = FALSE) 
+stim_key <- read_csv("./data/pilot-stim-key-english.csv",
+                     show_col_types = FALSE)
+```
+## Sentence Guide
+```{r key, echo=FALSE}
+knitr::kable(stim_key)
+```
+
+## Visualization
+### Natural
+```{r plot natural, echo=FALSE}
+plot.natural <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = natural)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Sentence is Natural'",
+       title = "Mean Naturalness Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.natural)
+```
+
+Overall, this is patterning as expected, although I should definitely look into item-specific differences for instrument-subject items.
+
+### Mobile
+```{r plot mobile, echo=FALSE}
+plot.mobile <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = mobile)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Was Mobile'",
+       title = "Mean Mobility Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.mobile)
+```
+
+The mobility noise is definitely item-specific; I may need to revise these items. 
+
+### Volition
+```{r plot volition, echo=FALSE}
+plot.volition <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = volition)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Acted of Own Volition'",
+       title = "Mean Volitionality Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.volition)
+```
+
+Patterning as expected.
+
+### Potent
+```{r plot potent, echo=FALSE}
+plot.potent <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = potent)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Generated Own Engergy to Do X'",
+       title = "Mean Potency Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.potent)
+```
+
+Note that the later sentence IDs are the "machines" or animate non-humans, so this patterns as expected as well.
+
+### Sentient
+```{r plot sentient, echo=FALSE}
+plot.sentient <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = sentient)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Is Sentient'",
+       title = "Mean Sentience Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.sentient)
+```
+
+Patterning as expected! Solid baseline. 
+
+### Instigation
+```{r plot instigation, echo=FALSE}
+plot.instigation <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = instigation)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Caused X'",
+       title = "Mean Instigation Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.instigation)
+```
+
+Patterning as expected! Nice sanity check.
+
+### Qualitative Persistence 
+```{r plot qualpersist, echo=FALSE}
+plot.qualpersist <- df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = id, 
+                       y = qualpersist)) +
+  stat_summary(fun = "mean",
+               geom = "bar") + 
+  stat_summary(fun.data = "mean_cl_boot",
+               geom = "linerange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Sentence ID",
+       y = "Mean Rating 'Did Not Change During Event'",
+       title = "Mean Qualitative Persistance Rating by Sentence and Subject") + 
+  facet_grid(~subj)
+
+print(plot.qualpersist)
+```
+
+Much more variation than expected here. Specifically, we would expect most (if not everything) to have a relatively high degree of qualitative persistence. Likely, the wording of the question is being interpreted variably.

@@ -7,7 +7,7 @@ const jsPsych = initJsPsych({
 
 let timeline = []; //Empty timeline to which we will add trials
 
-//IRB - SKIP FOR PILOT// 
+//IRB// 
 const irb = {
     type: jsPsychHtmlButtonResponse,
     stimulus: `
