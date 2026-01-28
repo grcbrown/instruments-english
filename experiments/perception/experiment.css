@@ -145,3 +145,41 @@
 .sd-completedpage input:hover {
   background-color: #379ad7 !important;
 }
+
+.likert-wrapper {
+  overflow-x: auto;
+}
+
+.likert-grid {
+  border-collapse: collapse;
+  width: 80%;
+  max-width: 90%;
+  min-width: 400px;
+  margin: 0 auto;
+}
+
+.likert-grid th, .likert-grid td {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  text-align: center;
+}
+
+.likert-grid td:first-child {
+  text-align: left;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.likert-grid td input[type="radio"] {
+  margin: 0 auto;     /* center horizontally */
+  display: block;     /* ensures margin auto works */
+}
+
+/* Make the preamble larger and bold */
+.jspsych-survey-html-form-preamble {
+  font-size: 1.5em;  /* Adjust as needed */
+  font-weight: bold;
+  margin-bottom: 20px; /* Space between preamble and table */
+}
+
+

@@ -63,49 +63,36 @@ const likertOptions = [
 let trial_array_1 = create_tv_array(trial_objects_1);
 let trial_array_2 = create_tv_array(trial_objects_2);
 
-const likertMatrixTrial = {
-  type: jsPsychSurveyLikertMatrix,
-  preamble: jsPsych.timelineVariable('text'),
+function createLikertTrial(tv) {
+  return {
+    type: jsPsychSurveyHtmlForm,
+    preamble: tv.text, // resolved timeline variable
+    html: `
+      <table class="likert-grid">
+        <tr>
+          <th></th>
+          ${likertOptions.map(opt => `<th>${opt}</th>`).join('')}
+        </tr>
+        ${makeLikertRow("natural", "This sentence sounds natural.")}
+        ${makeLikertRow("mobile", tv.mobile)}
+        ${makeLikertRow("volition", tv.volition)}
+        ${makeLikertRow("potent", tv.potent)}
+        ${makeLikertRow("sentient", tv.sentient)}
+        ${makeLikertRow("instigation", tv.instigation)}
+        ${makeLikertRow("qualpersist", tv.qualpersist)}
+      </table>
+    `,
+    data: {
+      id: tv.id,
+      subj: tv.subj
+    }
+  };
+}
 
-  statements: [
-    { prompt: "This sentence sounds natural.", name: "natural" },
-    { prompt: jsPsych.timelineVariable('mobile'), name: "mobile" },
-    { prompt: jsPsych.timelineVariable('volition'), name: "volition" },
-    { prompt: jsPsych.timelineVariable('potent'), name: "potent" },
-    { prompt: jsPsych.timelineVariable('sentient'), name: "sentient" },
-    { prompt: jsPsych.timelineVariable('instigation'), name: "instigation" },
-    { prompt: jsPsych.timelineVariable('qualpersist'), name: "qualpersist" }
-  ],
+// Create a timeline of trials from your objects
+const likertTrials_1 = shuffleArray(trial_objects_1.map(tv => createLikertTrial(tv)));
 
-  options: [
-    "Strongly Disagree",
-    "Disagree",
-    "Somewhat Disagree",
-    "Neither Agree nor Disagree",
-    "Somewhat Agree",
-    "Agree",
-    "Strongly Agree"
-  ],
-
-  required: true,
-
-  data: {
-    id: jsPsych.timelineVariable('id'),
-    subj: jsPsych.timelineVariable('subj')
-  }
-};
-
-const likertTrials_1 = {
-  timeline: [likertMatrixTrial],
-  timeline_variables: trial_objects_1,
-  randomize_order: true
-};
-
-const likertTrials_2 = {
-  timeline: [likertMatrixTrial],
-  timeline_variables: trial_objects_2,
-  randomize_order: true
-};
+const likertTrials_2 = shuffleArray(trial_objects_2.map(tv => createLikertTrial(tv)));
 
 
 //SURVEY// 
@@ -142,9 +129,14 @@ const questionnaire = {
         renderAs: "radio"
       },
       {
-        type: "text",
+        type: "comment",
         name: "question_feedback",
         title: "Were any of the rating scales confusing? If so, which ones were the most difficut?"
+      },
+      {
+        type: "comment",
+        name: "term_feedback",
+        title: "Do you feel like you needed definitions for any of the terms used? If so, which ones?"
       },
       {
         type: "text",

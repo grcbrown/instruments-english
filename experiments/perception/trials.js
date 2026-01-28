@@ -253,7 +253,7 @@ let trial_objects_1 = [
         "qualpersist": "The microwave did not change during the event."
     },
     {
-        "text": "Lee cooled the room with the fan.",
+        "text": "Lee cooled the room with the air conditioner.",
         "id": 24, 
         "subj": "human",
         "mobile": "Lee moved.",
@@ -465,7 +465,7 @@ let trial_objects_2 = [
         "qualpersist": "The rake did not change during the event."
     },
     {
-        "text": "Taylor cleaned the counter with the rage.",
+        "text": "Taylor cleaned the counter with the rag.",
         "id": 17, 
         "subj": "human",
         "mobile": "Taylor moved.",
@@ -542,15 +542,15 @@ let trial_objects_2 = [
         "qualpersist": "Lee did not change during the event."
     },
     {
-        "text": "The fan cooled the room.",
+        "text": "The air conditioner cooled the room.",
         "id": 24, 
         "subj": "instrument",
-        "mobile": "The fan moved.",
-        "volition": "The fan acted autonomously.",
-        "potent": "The fan generated its own energy to cool the room.",
-        "sentient": "The fan is sentient.",
-        "instigation": "The fan caused the cooling of the room.",
-        "qualpersist": "The fan did not change during the event."
+        "mobile": "The air conditioner moved.",
+        "volition": "The air conditioner acted autonomously.",
+        "potent": "The air conditioner generated its own energy to cool the room.",
+        "sentient": "The air conditioner is sentient.",
+        "instigation": "The air conditioner caused the cooling of the room.",
+        "qualpersist": "The air conditioner did not change during the event."
     },
     {
         "text": "Charlie cut the tree with the chainsaw.",
