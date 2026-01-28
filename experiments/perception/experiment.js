@@ -277,7 +277,7 @@ const filename = `${p_id}.csv`;
 const save_data = {
   type: jsPsychPipe,
   action: "save",
-  experiment_id: "1yLvbUVSrEQj", // CHANGE
+  experiment_id: "uZVdEmnH73T0", // CHANGE FROM PILOT CODE 
   filename: filename,
   data_string: ()=>jsPsych.data.get().csv()
 };
@@ -298,7 +298,7 @@ let condition_2_timeline = [irb, instructions, likertTrials_2, transition, quest
 
 // --- Use DataPipe to assign participant condition ---
 async function createExperiment() {
-  const condition = await jsPsychPipe.getCondition("1yLvbUVSrEQj"); // CHANGE
+  const condition = await jsPsychPipe.getCondition("uZVdEmnH73T0"); // CHANGE FROM PILOT CODE
   console.log("Assigned condition:", condition);
 
   if (condition == 0) { timeline = condition_1_timeline; }
