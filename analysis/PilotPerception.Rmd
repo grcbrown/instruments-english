@@ -1,5 +1,5 @@
 ---
-title: "Instrument Perception - English Norming"
+title: "Instrument Perception - English Pilot"
 author: "Grace Brown"
 date: "2026-01-28"
 output: html_document
