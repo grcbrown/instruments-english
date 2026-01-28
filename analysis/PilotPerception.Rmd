@@ -177,3 +177,37 @@ print(plot.qualpersist)
 ```
 
 Much more variation than expected here. Specifically, we would expect most (if not everything) to have a relatively high degree of qualitative persistence. Likely, the wording of the question is being interpreted variably.
+
+### Exploratory: Potency x Naturalness
+```{r}
+df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = potent, 
+                       y = natural)) +
+  geom_smooth(method = "lm",
+              se = T,
+              color = "red",
+              alpha = 0.5) +
+  stat_summary(geom = "pointrange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Potency Rating",
+       y = "Naturalness Rating",
+       title = "Naturalness Rating by Potency Rating") 
+```
+
+### Exploratory: Instigation x Naturalness
+```{r}
+df %>% 
+  filter(!is.na(subj)) %>%
+  ggplot(mapping = aes(x = instigation, 
+                       y = natural)) +
+  geom_smooth(method = "lm",
+              se = T,
+              color = "red",
+              alpha = 0.5) +
+  stat_summary(geom = "pointrange") + 
+  coord_cartesian(ylim = c(0,7)) +
+  labs(x = "Instigation Rating",
+       y = "Naturalness Rating",
+       title = "Naturalness Rating by Instigation Rating") 
+```
