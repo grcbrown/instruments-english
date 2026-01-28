@@ -63,109 +63,50 @@ const likertOptions = [
 let trial_array_1 = create_tv_array(trial_objects_1);
 let trial_array_2 = create_tv_array(trial_objects_2);
 
-const likertTrials_1 = {
-  timeline: [
-    {
-      type: jsPsychSurveyLikert,
-      preamble: jsPsych.timelineVariable('text'),
-      questions: [
-        {
-          prompt: "This sentence sounds natural.",
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('mobile'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('volition'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('potent'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('sentient'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('instigation'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('qualpersist'),
-          labels: likertOptions,
-          required: true
-        }
-      ],
-      data: {
-        id: jsPsych.timelineVariable('id'),
-        subj: jsPsych.timelineVariable('subj')
-      }
-    }
+const likertMatrixTrial = {
+  type: jsPsychSurveyLikertMatrix,
+  preamble: jsPsych.timelineVariable('text'),
+
+  statements: [
+    { prompt: "This sentence sounds natural.", name: "natural" },
+    { prompt: jsPsych.timelineVariable('mobile'), name: "mobile" },
+    { prompt: jsPsych.timelineVariable('volition'), name: "volition" },
+    { prompt: jsPsych.timelineVariable('potent'), name: "potent" },
+    { prompt: jsPsych.timelineVariable('sentient'), name: "sentient" },
+    { prompt: jsPsych.timelineVariable('instigation'), name: "instigation" },
+    { prompt: jsPsych.timelineVariable('qualpersist'), name: "qualpersist" }
   ],
+
+  options: [
+    "Strongly Disagree",
+    "Disagree",
+    "Somewhat Disagree",
+    "Neither Agree nor Disagree",
+    "Somewhat Agree",
+    "Agree",
+    "Strongly Agree"
+  ],
+
+  required: true,
+
+  data: {
+    id: jsPsych.timelineVariable('id'),
+    subj: jsPsych.timelineVariable('subj')
+  }
+};
+
+const likertTrials_1 = {
+  timeline: [likertMatrixTrial],
   timeline_variables: trial_objects_1,
   randomize_order: true
 };
 
 const likertTrials_2 = {
-  timeline: [
-    {
-      type: jsPsychSurveyLikert,
-      preamble: jsPsych.timelineVariable('text'),
-      questions: [
-        {
-          prompt: "This sentence sounds natural.",
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('mobile'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('volition'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('potent'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('sentient'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('instigation'),
-          labels: likertOptions,
-          required: true
-        },
-        {
-          prompt: jsPsych.timelineVariable('qualpersist'),
-          labels: likertOptions,
-          required: true
-        }
-      ],
-      data: {
-        id: jsPsych.timelineVariable('id'),
-        subj: jsPsych.timelineVariable('subj')
-      }
-    }
-  ],
+  timeline: [likertMatrixTrial],
   timeline_variables: trial_objects_2,
   randomize_order: true
 };
+
 
 //SURVEY// 
 const transition = {
@@ -199,6 +140,11 @@ const questionnaire = {
         labelTrue: "Yes",
         labelFalse: "No",
         renderAs: "radio"
+      },
+      {
+        type: "text",
+        name: "question_feedback",
+        title: "Were any of the rating scales confusing? If so, which ones were the most difficut?"
       },
       {
         type: "text",
@@ -285,7 +231,7 @@ const save_data = {
 //THANKS// - CHANGE LINK 
 var thanks = {
   type: jsPsychHtmlKeyboardResponse,
-  stimulus: `<p>You've finished the pilot study. Thank you for your time! </p>
+  stimulus: `<p>You've finished the study. Thank you for your time! </p>
     <br><br> 
     <p> <a href="https://app.prolific.com/submissions/complete?cc=C1AIAUN3"> Click here to return to Prolific and complete the study</a>.</p>`,
   choices: "NO_KEYS"
