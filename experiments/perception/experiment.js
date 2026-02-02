@@ -39,7 +39,6 @@ const instructions = {
     <div class="gen_ins"; style="font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;">
         <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
         <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
-        <p>This is a pilot. There may be bugs. </p>
         <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
     </div>
     `, 
@@ -182,7 +181,7 @@ const save_data = {
   data_string: ()=>jsPsych.data.get().csv()
 };
 
-//THANKS// - CHANGE LINK 
+//THANKS// 
 var thanks = {
   type: jsPsychHtmlKeyboardResponse,
   stimulus: `<p>You've finished the study. Thank you for your time! </p>
