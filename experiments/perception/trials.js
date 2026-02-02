@@ -88,14 +88,14 @@ let trial_objects_1 = [
         "manipulability": "Morgan can be physically manipulated."
     },
     {
-        "text": "The eraser recan move the mark.",
+        "text": "The eraser removed the mark.",
         "id": 9, 
         "subj": "instrument",
         "mobile": "The eraser can move.",
         "volition": "The eraser acted autonomously.",
         "potent": "The eraser generated its own energy to remove the mark.",
         "sentient": "The eraser is sentient.",
-        "instigation": "The eraser caused the removing of the mark.",
+        "instigation": "The eraser caused the removal of the mark.",
         "manipulability": "The eraser can be physically manipulated."
     },
     {
@@ -377,14 +377,14 @@ let trial_objects_2 = [
         "manipulability": "The pencil can be physically manipulated."
     },
     {
-        "text": "Alex recan move the mark with the eraser.",
+        "text": "Alex removed the mark with the eraser.",
         "id": 9, 
         "subj": "human",
         "mobile": "Alex can move.",
         "volition": "Alex acted autonomously.",
         "potent": "Alex generated their own energy to remove the mark.",
         "sentient": "Alex is sentient.",
-        "instigation": "Alex caused the removing of the mark.",
+        "instigation": "Alex caused the removal of the mark.",
         "manipulability": "Alex can be physically manipulated."
     },
     {
