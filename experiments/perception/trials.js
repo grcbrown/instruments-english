@@ -3,287 +3,287 @@ let trial_objects_1 = [
         "text": "The fishing pole caught the fish.", 
         "id": 1,
         "subj": "instrument",
-        "mobile": "The fishing pole moved.",
+        "mobile": "The fishing pole can move.",
         "volition": "The fishing pole acted autonomously.",
         "sentient": "The fishing pole is sentient.",
         "potent": "The fishing pole generated its own energy to catch the fish.",
         "instigation": "The fishing pole caused the catching of the fish.",
-        "qualpersist": "The fishing pole did not change during the event."
+        "manipulability": "The fishing pole can be physically manipulated."
     },
     {
         "text": "Parker beat the eggs with the whisk.",
         "id": 2, 
         "subj": "human",
-        "mobile": "Parker moved.",
+        "mobile": "Parker can move.",
         "volition": "Parker acted autonomously.",
         "potent": "Parker generated their own energy to beat the eggs.",
         "sentient": "Parker is sentient.",
         "instigation": "Parker caused the beating of the eggs.",
-        "qualpersist": "Parker did not change during the event."
+        "manipulability": "Parker can be physically manipulated."
     },
     {
         "text": "The knife cut the bread.",
         "id": 3, 
         "subj": "instrument",
-        "mobile": "The knife moved.",
+        "mobile": "The knife can move.",
         "volition": "The knife acted autonomously.",
         "potent": "The knife generated its own energy to cut the bread.",
         "sentient": "The knife is sentient.",
         "instigation": "The knife caused the cutting of the bread.",
-        "qualpersist": "The knife did not change during the event."
+        "manipulability": "The knife can be physically manipulated."
     },
     {
         "text": "Riley stirred the soup with the spoon.",
         "id": 4, 
         "subj": "human",
-        "mobile": "Riley moved.",
+        "mobile": "Riley can move.",
         "volition": "Riley acted autonomously.",
         "potent": "Riley generated their own energy to stir the soup.",
         "sentient": "Riley is sentient.",
         "instigation": "Riley caused the stirring of the soup.",
-        "qualpersist": "Riley did not change during the event."
+        "manipulability": "Riley can be physically manipulated."
     },
     {
         "text": "The pestle crushed the garlic.",
         "id": 5, 
         "subj": "instrument",
-        "mobile": "The pestle moved.",
+        "mobile": "The pestle can move.",
         "volition": "The pestle acted autonomously.",
         "potent": "The pestle generated its own energy to crush the garlic.",
         "sentient": "The pestle is sentient.",
         "instigation": "The pestle caused the crushing of the garlic.",
-        "qualpersist": "The pestle did not change during the event."
+        "manipulability": "The pestle can be physically manipulated."
     },
     {
         "text": "Avery flattened the dough with the rolling pin.",
         "id": 6, 
         "subj": "human",
-        "mobile": "Avery moved.",
+        "mobile": "Avery can move.",
         "volition": "Avery acted autonomously.",
         "potent": "Avery generated their own energy to flatten the dough.",
         "sentient": "Avery is sentient.",
         "instigation": "Avery caused the flattening of the dough.",
-        "qualpersist": "Avery did not change during the event."
+        "manipulability": "Avery can be physically manipulated."
     },
     {
         "text": "The brush painted the portrait.",
         "id": 7, 
         "subj": "instrument",
-        "mobile": "The brush moved.",
+        "mobile": "The brush can move.",
         "volition": "The brush acted autonomously.",
         "potent": "The brush generated its own energy to paint the portrait.",
         "sentient": "The bush is sentient.",
         "instigation": "The brush caused the painting of the portrait.",
-        "qualpersist": "The brush did not change during the event."
+        "manipulability": "The brush can be physically manipulated."
     },
     {
         "text": "Morgan marked the paper with the pencil.",
         "id": 8, 
         "subj": "human",
-        "mobile": "Morgan moved.",
+        "mobile": "Morgan can move.",
         "volition": "Morgan acted autonomously.",
         "potent": "Morgan generated their own energy to mark the paper.",
         "sentient": "Morgan is sentient.",
         "instigation": "Morgan caused the marking of the paper.",
-        "qualpersist": "Morgan did not change during the event."
+        "manipulability": "Morgan can be physically manipulated."
     },
     {
-        "text": "The eraser removed the mark.",
+        "text": "The eraser recan move the mark.",
         "id": 9, 
         "subj": "instrument",
-        "mobile": "The eraser moved.",
+        "mobile": "The eraser can move.",
         "volition": "The eraser acted autonomously.",
         "potent": "The eraser generated its own energy to remove the mark.",
         "sentient": "The eraser is sentient.",
         "instigation": "The eraser caused the removing of the mark.",
-        "qualpersist": "The eraser did not change during the event."
+        "manipulability": "The eraser can be physically manipulated."
     },
     {
         "text": "Alex hit the ball with the racket.",
         "id": 10, 
         "subj": "human",
-        "mobile": "Alex moved.",
+        "mobile": "Alex can move.",
         "volition": "Alex acted autonomously.",
         "potent": "Alex generated their own energy to hit the ball.",
         "sentient": "Alex is sentient.",
         "instigation": "Alex caused the hitting of the ball.",
-        "qualpersist": "Alex did not change during the event."
+        "manipulability": "Alex can be physically manipulated."
     },
     {
         "text": "The axe chopped the firewood.",
         "id": 11, 
         "subj": "instrument",
-        "mobile": "The axe moved.",
+        "mobile": "The axe can move.",
         "volition": "The axe acted autonomously.",
         "potent": "The axe generated its own energy to chop the firewood.",
         "sentient": "The axe is sentient.",
         "instigation": "The axe caused the chopping of the firewood.",
-        "qualpersist": "The axe did not change during the event."
+        "manipulability": "The axe can be physically manipulated."
     },
     {
         "text": "Cameron beheaded the knight with the sword.",
         "id": 12, 
         "subj": "human",
-        "mobile": "Cameron moved.",
+        "mobile": "Cameron can move.",
         "volition": "Cameron acted autonomously.",
         "potent": "Cameron generated their own energy to behead the knight.",
         "sentient": "Cameron is sentient.",
         "instigation": "Cameron caused the beheading of the knight.",
-        "qualpersist": "Cameron did not change during the event."
+        "manipulability": "Cameron can be physically manipulated."
     },
     {
         "text": "The wrench tightened the bolt.",
         "id": 13, 
         "subj": "instrument",
-        "mobile": "The wrench moved.",
+        "mobile": "The wrench can move.",
         "volition": "The wrench acted autonomously.",
         "potent": "The wrench generated its own energy to tighten the bolt.",
         "sentient": "The wrench is sentient.",
         "instigation": "The wrench caused the tightening of the bolt.",
-        "qualpersist": "The wrench did not change during the event."
+        "manipulability": "The wrench can be physically manipulated."
     },
     {
         "text": "Tyler broke the window with the rock.",
         "id": 14, 
         "subj": "human",
-        "mobile": "Tyler moved.",
+        "mobile": "Tyler can move.",
         "volition": "Tyler acted autonomously.",
         "potent": "Tyler generated their own energy to break the window.",
         "sentient": "Tyler is sentient.",
         "instigation": "Tyler caused the breaking of the window.",
-        "qualpersist": "Tyler did not change during the event."
+        "manipulability": "Tyler can be physically manipulated."
     },
     {
         "text": "The broom swept the patio.",
         "id": 15, 
         "subj": "instrument",
-        "mobile": "The broom moved.",
+        "mobile": "The broom can move.",
         "volition": "The broom acted autonomously.",
         "potent": "The broom generated its own energy to sweep the patio.",
         "sentient": "The broom is sentient.",
         "instigation": "The broom caused the sweeping of the patio.",
-        "qualpersist": "The broom did not change during the event."
+        "manipulability": "The broom can be physically manipulated."
     },
     {
         "text": "Pat gathered the leaves with the rake.",
         "id": 16, 
         "subj": "human",
-        "mobile": "Pat moved.",
+        "mobile": "Pat can move.",
         "volition": "Pat acted autonomously.",
         "potent": "Pat generated their own energy to gather the leaves.",
         "sentient": "Pat is sentient.",
         "instigation": "Pat caused the gathering of the leaves.",
-        "qualpersist": "Pat did not change during the event."
+        "manipulability": "Pat can be physically manipulated."
     },
     {
         "text": "The rag cleaned the counter.",
         "id": 17, 
         "subj": "instrument",
-        "mobile": "The rag moved.",
+        "mobile": "The rag can move.",
         "volition": "The rag acted autonomously.",
         "potent": "The rag generated its own energy to clean the counter.",
         "sentient": "The rag is sentient.",
         "instigation": "The rag caused the cleaning of the counter.",
-        "qualpersist": "The rag did not change during the event."
+        "manipulability": "The rag can be physically manipulated."
     },
     {
         "text": "Taylor opened the safe with the key.",
         "id": 18, 
         "subj": "human",
-        "mobile": "Taylor moved.",
+        "mobile": "Taylor can move.",
         "volition": "Taylor acted autonomously.",
         "potent": "Taylor generated their own energy to open the safe.",
         "sentient": "Taylor is sentient.",
         "instigation": "Taylor caused the opening of the safe.",
-        "qualpersist": "Taylor did not change during the event."
+        "manipulability": "Taylor can be physically manipulated."
     },
     {
-        "text": "The shovel moved the soil.",
+        "text": "The shovel can move the soil.",
         "id": 19, 
         "subj": "instrument",
-        "mobile": "The shovel moved.",
+        "mobile": "The shovel can move.",
         "volition": "The shovel acted autonomously.",
         "potent": "The shovel generated its own energy to move the soil.",
         "sentient": "The shovel is sentient.",
         "instigation": "The shovel caused the moving of the soil.",
-        "qualpersist": "The shovel did not change during the event."
+        "manipulability": "The shovel can be physically manipulated."
     },
     {
         "text": "Jordan illuminated the cave with the flashlight.",
         "id": 20, 
         "subj": "human",
-        "mobile": "Jordan moved.",
+        "mobile": "Jordan can move.",
         "volition": "Jordan acted autonomously.",
         "potent": "Jordan generated their own energy to illuminate the cave.",
         "sentient": "Jordan is sentient.",
         "instigation": "Jordan caused the illumination of the cave.",
-        "qualpersist": "Jordan did not change during the event."
+        "manipulability": "Jordan can be physically manipulated."
     },
     {
         "text": "The gun killed the bird.",
         "id": 21, 
         "subj": "instrument",
-        "mobile": "The gun moved.",
+        "mobile": "The gun can move.",
         "volition": "The gun acted autonomously.",
         "potent": "The gun generated its own energy to kill the bird.",
         "sentient": "The gun is sentient.",
         "instigation": "The gun caused the killing of the bird.",
-        "qualpersist": "The gun did not change during the event."
+        "manipulability": "The gun can be physically manipulated."
     },
     {
         "text": "Jesse cleaned the rug with the vacuum.",
         "id": 22, 
         "subj": "human",
-        "mobile": "Jesse moved.",
+        "mobile": "Jesse can move.",
         "volition": "Jesse acted autonomously.",
         "potent": "Jesse generated their own energy to clean the rug.",
         "sentient": "Jesse is sentient.",
         "instigation": "Jesse caused the cleaning of the rug.",
-        "qualpersist": "Jesse did not change during the event."
+        "manipulability": "Jesse can be physically manipulated."
     },
     {
         "text": "The microwave defrosted the meat.",
         "id": 23, 
         "subj": "instrument",
-        "mobile": "The microwave moved.",
+        "mobile": "The microwave can move.",
         "volition": "The microwave acted autonomously.",
         "potent": "The microwave generated its own energy to defrost the meat.",
         "sentient": "The microwave is sentient.",
         "instigation": "The microwave caused the defrosting of the meat.",
-        "qualpersist": "The microwave did not change during the event."
+        "manipulability": "The microwave can be physically manipulated."
     },
     {
         "text": "Lee cooled the room with the air conditioner.",
         "id": 24, 
         "subj": "human",
-        "mobile": "Lee moved.",
+        "mobile": "Lee can move.",
         "volition": "Lee acted autonomously.",
         "potent": "Lee generated their own energy to cool the room.",
         "sentient": "Lee is sentient.",
         "instigation": "Lee caused the cooling of the room.",
-        "qualpersist": "Lee did not change during the event."
+        "manipulability": "Lee can be physically manipulated."
     },
     {
         "text": "The chainsaw cut the tree.",
         "id": 25, 
         "subj": "instrument",
-        "mobile": "The chainsaw moved.",
+        "mobile": "The chainsaw can move.",
         "volition": "The chainsaw acted autonomously.",
         "potent": "The chainsaw generated its own energy to cut the tree.",
         "sentient": "The chainsaw is sentient.",
         "instigation": "The chainsaw caused the cutting of the tree.",
-        "qualpersist": "The chainsaw did not change during the event."
+        "manipulability": "The chainsaw can be physically manipulated."
     },
     {
         "text": "Charlie lifted the steel beams with the crane.",
         "id": 26, 
         "subj": "human",
-        "mobile": "Charlie moved.",
+        "mobile": "Charlie can move.",
         "volition": "Charlie acted autonomously.",
         "potent": "Charlie generated their own energy to lift the steel beams.",
         "sentient": "Charlie is sentient.",
         "instigation": "Charlie caused the lifting of the steel beams.",
-        "qualpersist": "Charlie did not change during the event."
+        "manipulability": "Charlie can be physically manipulated."
     }
 ]
 
@@ -292,286 +292,286 @@ let trial_objects_2 = [
         "text": "Parker caught the fish with the fishing pole.", 
         "id": 1,
         "subj": "human",
-        "mobile": "Parker moved.",
+        "mobile": "Parker can move.",
         "volition": "Parker acted autonomously.",
         "sentient": "Parker is sentient.",
         "potent": "Parker generated their own energy to catch the fish.",
         "instigation": "Parker caused the catching of the fish.",
-        "qualpersist": "Parker did not change during the event."
+        "manipulability": "Parker can be physically manipulated."
     },
     {
         "text": "The whisk beat the eggs.",
         "id": 2, 
         "subj": "instrument",
-        "mobile": "The whisk moved.",
+        "mobile": "The whisk can move.",
         "volition": "The whisk acted autonomously.",
         "potent": "The whisk generated its own energy to beat the eggs.",
         "sentient": "The whisk is sentient.",
         "instigation": "The whisk caused the beating of the eggs.",
-        "qualpersist": "The whisk did not change during the event."
+        "manipulability": "The whisk can be physically manipulated."
     },
     {
         "text": "Riley cut the bread with the knife.",
         "id": 3, 
         "subj": "human",
-        "mobile": "Riley moved.",
+        "mobile": "Riley can move.",
         "volition": "Riley acted autonomously.",
         "potent": "Riley generated their own energy to cut the bread.",
         "sentient": "Riley is sentient.",
         "instigation": "Riley caused the cutting of the bread.",
-        "qualpersist": "Riley did not change during the event."
+        "manipulability": "Riley can be physically manipulated."
     },
     {
         "text": "The spoon stirred the soup.",
         "id": 4, 
         "subj": "instrument",
-        "mobile": "The spoon moved.",
+        "mobile": "The spoon can move.",
         "volition": "The spoon acted autonomously.",
         "potent": "The spoon generated its own energy to stir the soup.",
         "sentient": "The spoon is sentient.",
         "instigation": "The spoon caused the stirring of the soup.",
-        "qualpersist": "The spoon did not change during the event."
+        "manipulability": "The spoon can be physically manipulated."
     },
     {
         "text": "Avery crushed the garlic with the pestle.",
         "id": 5, 
         "subj": "human",
-        "mobile": "Avery moved.",
+        "mobile": "Avery can move.",
         "volition": "Avery acted autonomously.",
         "potent": "Avery generated their own energy to crush the garlic.",
         "sentient": "Avery is sentient.",
         "instigation": "Avery caused the crushing of the garlic.",
-        "qualpersist": "TAvery did not change during the event."
+        "manipulability": "TAvery can be physically manipulated."
     },
     {
         "text": "The rolling pin flattened the dough.",
         "id": 6, 
         "subj": "instrument",
-        "mobile": "The rolling pin moved.",
+        "mobile": "The rolling pin can move.",
         "volition": "The rolling pin acted autonomously.",
         "potent": "The rolling pin generated its own energy to flatten the dough.",
         "sentient": "The rolling pin is sentient.",
         "instigation": "The rolling pin caused the flattening of the dough.",
-        "qualpersist": "The rolling pin did not change during the event."
+        "manipulability": "The rolling pin can be physically manipulated."
     },
     {
         "text": "Morgan painted the portrait with the brush.",
         "id": 7, 
         "subj": "human",
-        "mobile": "Morgan moved.",
+        "mobile": "Morgan can move.",
         "volition": "Morgan acted autonomously.",
         "potent": "Morgan generated their own energy to paint the portrait.",
         "sentient": "Morgan is sentient.",
         "instigation": "Morgan caused the painting of the portrait.",
-        "qualpersist": "Morgan did not change during the event."
+        "manipulability": "Morgan can be physically manipulated."
     },
     {
         "text": "The pencil marked the paper.",
         "id": 8, 
         "subj": "instrument",
-        "mobile": "The pencil moved.",
+        "mobile": "The pencil can move.",
         "volition": "The pencil acted autonomously.",
         "potent": "The pencil generated its own energy to mark the paper.",
         "sentient": "The pencil is sentient.",
         "instigation": "The pencil caused the marking of the paper.",
-        "qualpersist": "The pencil did not change during the event."
+        "manipulability": "The pencil can be physically manipulated."
     },
     {
-        "text": "Alex removed the mark with the eraser.",
+        "text": "Alex recan move the mark with the eraser.",
         "id": 9, 
         "subj": "human",
-        "mobile": "Alex moved.",
+        "mobile": "Alex can move.",
         "volition": "Alex acted autonomously.",
         "potent": "Alex generated their own energy to remove the mark.",
         "sentient": "Alex is sentient.",
         "instigation": "Alex caused the removing of the mark.",
-        "qualpersist": "Alex did not change during the event."
+        "manipulability": "Alex can be physically manipulated."
     },
     {
         "text": "The racket hit the ball.",
         "id": 10, 
         "subj": "instrument",
-        "mobile": "The racket moved.",
+        "mobile": "The racket can move.",
         "volition": "The racket acted autonomously.",
         "potent": "The racket generated its own energy to hit the ball.",
         "sentient": "The racket is sentient.",
         "instigation": "The racket caused the hitting of the ball.",
-        "qualpersist": "The racket did not change during the event."
+        "manipulability": "The racket can be physically manipulated."
     },
     {
         "text": "Cameron chopped the firewood with the axe.",
         "id": 11, 
         "subj": "human",
-        "mobile": "Cameron moved.",
+        "mobile": "Cameron can move.",
         "volition": "Cameron acted autonomously.",
         "potent": "Cameron generated their own energy to chop the firewood.",
         "sentient": "Cameron is sentient.",
         "instigation": "Cameron caused the chopping of the firewood.",
-        "qualpersist": "Cameron did not change during the event."
+        "manipulability": "Cameron can be physically manipulated."
     },
     {
         "text": "The sword beheaded the knight.",
         "id": 12, 
         "subj": "instrument",
-        "mobile": "The sword moved.",
+        "mobile": "The sword can move.",
         "volition": "The sword acted autonomously.",
         "potent": "The sword generated its own energy to behead the knight.",
         "sentient": "The sword is sentient.",
         "instigation": "The sword caused the beheading of the knight.",
-        "qualpersist": "The sword did not change during the event."
+        "manipulability": "The sword can be physically manipulated."
     },
     {
         "text": "Tyler tightened the bolt with the wrench.",
         "id": 13, 
         "subj": "human",
-        "mobile": "Tyler moved.",
+        "mobile": "Tyler can move.",
         "volition": "Tyler acted autonomously.",
         "potent": "Tyler generated their own energy to tighten the bolt.",
         "sentient": "Tyler is sentient.",
         "instigation": "Tyler caused the tightening of the bolt.",
-        "qualpersist": "Tyler did not change during the event."
+        "manipulability": "Tyler can be physically manipulated."
     },
     {
         "text": "The rock broke the window.",
         "id": 14, 
         "subj": "instrument",
-        "mobile": "The rock moved.",
+        "mobile": "The rock can move.",
         "volition": "The rock acted autonomously.",
         "potent": "The rock generated its own energy to break the window.",
         "sentient": "The rock is sentient.",
         "instigation": "The rock caused the breaking of the window.",
-        "qualpersist": "The rock did not change during the event."
+        "manipulability": "The rock can be physically manipulated."
     },
     {
         "text": "Pat swept the patio with the broom.",
         "id": 15, 
         "subj": "human",
-        "mobile": "Pat moved.",
+        "mobile": "Pat can move.",
         "volition": "Pat acted autonomously.",
         "potent": "Pat generated their own energy to sweep the patio.",
         "sentient": "Pat is sentient.",
         "instigation": "Pat caused the sweeping of the patio.",
-        "qualpersist": "Pat did not change during the event."
+        "manipulability": "Pat can be physically manipulated."
     },
     {
         "text": "The rake gathered the leaves.",
         "id": 16, 
         "subj": "instrument",
-        "mobile": "The rake moved.",
+        "mobile": "The rake can move.",
         "volition": "The rake acted autonomously.",
         "potent": "The rake generated its own energy to gather the leaves.",
         "sentient": "The rake is sentient.",
         "instigation": "The rake caused the gathering of the leaves.",
-        "qualpersist": "The rake did not change during the event."
+        "manipulability": "The rake can be physically manipulated."
     },
     {
         "text": "Taylor cleaned the counter with the rag.",
         "id": 17, 
         "subj": "human",
-        "mobile": "Taylor moved.",
+        "mobile": "Taylor can move.",
         "volition": "Taylor acted autonomously.",
         "potent": "Taylor generated their own energy to clean the counter.",
         "sentient": "Taylor is sentient.",
         "instigation": "Taylor caused the cleaning of the counter.",
-        "qualpersist": "Taylor did not change during the event."
+        "manipulability": "Taylor can be physically manipulated."
     },
     {
         "text": "The key opened the safe.",
         "id": 18, 
         "subj": "instrument",
-        "mobile": "The key moved.",
+        "mobile": "The key can move.",
         "volition": "The key acted autonomously.",
         "potent": "The key generated its own energy to open the safe.",
         "sentient": "The key is sentient.",
         "instigation": "The key caused the opening of the safe.",
-        "qualpersist": "The key did not change during the event."
+        "manipulability": "The key can be physically manipulated."
     },
     {
-        "text": "Jordan moved the soil with the shovel.",
+        "text": "Jordan can move the soil with the shovel.",
         "id": 19, 
         "subj": "human",
-        "mobile": "Jordan moved.",
+        "mobile": "Jordan can move.",
         "volition": "Jordan acted autonomously.",
         "potent": "Jordan generated their own energy to move the soil.",
         "sentient": "Jordan is sentient.",
         "instigation": "Jordan caused the moving of the soil.",
-        "qualpersist": "Jordan did not change during the event."
+        "manipulability": "Jordan can be physically manipulated."
     },
     {
         "text": "The flashlight illuminated the cave.",
         "id": 20, 
         "subj": "instrument",
-        "mobile": "The flashlight moved.",
+        "mobile": "The flashlight can move.",
         "volition": "The flashlight acted autonomously.",
         "potent": "The flashlight generated its own energy to illuminate the cave.",
         "sentient": "The flashlight is sentient.",
         "instigation": "The flashlight caused the illumination of the cave.",
-        "qualpersist": "The flashlight did not change during the event."
+        "manipulability": "The flashlight can be physically manipulated."
     },
     {
         "text": "Jesse killed the bird with the gun.",
         "id": 21, 
         "subj": "human",
-        "mobile": "Jesse moved.",
+        "mobile": "Jesse can move.",
         "volition": "Jesse acted autonomously.",
         "potent": "Jesse generated their own energy to kill the bird.",
         "sentient": "Jesse is sentient.",
         "instigation": "Jesse caused the killing of the bird.",
-        "qualpersist": "Jesse did not change during the event."
+        "manipulability": "Jesse can be physically manipulated."
     },
     {
         "text": "The vacuum cleaned the rug.",
         "id": 22, 
         "subj": "instrument",
-        "mobile": "The vacuum moved.",
+        "mobile": "The vacuum can move.",
         "volition": "The vacuum acted autonomously.",
         "potent": "The vacuum generated its own energy to clean the rug.",
         "sentient": "The vacuum is sentient.",
         "instigation": "The vacuum caused the cleaning of the rug.",
-        "qualpersist": "The vacuum did not change during the event."
+        "manipulability": "The vacuum can be physically manipulated."
     },
     {
         "text": "Lee defrosted the meat with the microwave.",
         "id": 23, 
         "subj": "human",
-        "mobile": "Lee moved.",
+        "mobile": "Lee can move.",
         "volition": "Lee acted autonomously.",
         "potent": "Lee generated their own energy to defrost the meat.",
         "sentient": "Lee is sentient.",
         "instigation": "Lee caused the defrosting of the meat.",
-        "qualpersist": "Lee did not change during the event."
+        "manipulability": "Lee can be physically manipulated."
     },
     {
         "text": "The air conditioner cooled the room.",
         "id": 24, 
         "subj": "instrument",
-        "mobile": "The air conditioner moved.",
+        "mobile": "The air conditioner can move.",
         "volition": "The air conditioner acted autonomously.",
         "potent": "The air conditioner generated its own energy to cool the room.",
         "sentient": "The air conditioner is sentient.",
         "instigation": "The air conditioner caused the cooling of the room.",
-        "qualpersist": "The air conditioner did not change during the event."
+        "manipulability": "The air conditioner can be physically manipulated."
     },
     {
         "text": "Charlie cut the tree with the chainsaw.",
         "id": 25, 
         "subj": "human",
-        "mobile": "Charlie moved.",
+        "mobile": "Charlie can move.",
         "volition": "Charlie acted autonomously.",
         "potent": "Charlie generated their own energy to cut the tree.",
         "sentient": "Charlie is sentient.",
         "instigation": "Charlie caused the cutting of the tree.",
-        "qualpersist": "Charlie did not change during the event."
+        "manipulability": "Charlie can be physically manipulated."
     },
     {
         "text": "The crane lifted the steel beams.",
         "id": 26, 
         "subj": "instrument",
-        "mobile": "The crane moved.",
+        "mobile": "The crane can move.",
         "volition": "The crane acted autonomously.",
         "potent": "The crane generated its own energy to lift the steel beams.",
         "sentient": "The crane is sentient.",
         "instigation": "The crane caused the lifting of the steel beams.",
-        "qualpersist": "The crane did not change during the event."
+        "manipulability": "The crane can be physically manipulated."
     }
 ]

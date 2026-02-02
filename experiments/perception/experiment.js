@@ -37,7 +37,7 @@ const instructions = {
     type: jsPsychHtmlButtonResponse,
     stimulus: `
     <div class="gen_ins"; style="font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;">
-        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 36 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
         <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
         <p>This is a pilot. There may be bugs. </p>
         <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
@@ -59,41 +59,13 @@ const likertOptions = [
   "Strongly Agree"
 ];
 
-// ====== Nested timeline for survey-likert ======
+// Create trial objects
 let trial_array_1 = create_tv_array(trial_objects_1);
 let trial_array_2 = create_tv_array(trial_objects_2);
 
-function createLikertTrial(tv) {
-  return {
-    type: jsPsychSurveyHtmlForm,
-    preamble: tv.text, // resolved timeline variable
-    html: `
-      <table class="likert-grid">
-        <tr>
-          <th></th>
-          ${likertOptions.map(opt => `<th>${opt}</th>`).join('')}
-        </tr>
-        ${makeLikertRow("natural", "This sentence sounds natural.")}
-        ${makeLikertRow("mobile", tv.mobile)}
-        ${makeLikertRow("volition", tv.volition)}
-        ${makeLikertRow("potent", tv.potent)}
-        ${makeLikertRow("sentient", tv.sentient)}
-        ${makeLikertRow("instigation", tv.instigation)}
-        ${makeLikertRow("qualpersist", tv.qualpersist)}
-      </table>
-    `,
-    data: {
-      id: tv.id,
-      subj: tv.subj
-    }
-  };
-}
-
-// Create a timeline of trials from your objects
+// Create a timeline of trials from objects
 const likertTrials_1 = shuffleArray(trial_objects_1.map(tv => createLikertTrial(tv)));
-
 const likertTrials_2 = shuffleArray(trial_objects_2.map(tv => createLikertTrial(tv)));
-
 
 //SURVEY// 
 const transition = {
@@ -127,16 +99,6 @@ const questionnaire = {
         labelTrue: "Yes",
         labelFalse: "No",
         renderAs: "radio"
-      },
-      {
-        type: "comment",
-        name: "question_feedback",
-        title: "Were any of the rating scales confusing? If so, which ones were the most difficut?"
-      },
-      {
-        type: "comment",
-        name: "term_feedback",
-        title: "Do you feel like you needed definitions for any of the terms used? If so, which ones?"
       },
       {
         type: "text",
@@ -215,7 +177,7 @@ const filename = `${p_id}.csv`;
 const save_data = {
   type: jsPsychPipe,
   action: "save",
-  experiment_id: "uZVdEmnH73T0", // CHANGE FROM PILOT CODE 
+  experiment_id: "RGMgyvk1uuky", 
   filename: filename,
   data_string: ()=>jsPsych.data.get().csv()
 };
@@ -236,7 +198,7 @@ let condition_2_timeline = [irb, instructions, likertTrials_2, transition, quest
 
 // --- Use DataPipe to assign participant condition ---
 async function createExperiment() {
-  const condition = await jsPsychPipe.getCondition("uZVdEmnH73T0"); // CHANGE FROM PILOT CODE
+  const condition = await jsPsychPipe.getCondition("RGMgyvk1uuky"); 
   console.log("Assigned condition:", condition);
 
   if (condition == 0) { timeline = condition_1_timeline; }

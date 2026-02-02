@@ -31,4 +31,28 @@ function shuffleArray(array) {
   return arr;
 }
 
-
+function createLikertTrial(tv) {
+  return {
+    type: jsPsychSurveyHtmlForm,
+    preamble: tv.text, // resolved timeline variable
+    html: `
+      <table class="likert-grid">
+        <tr>
+          <th></th>
+          ${likertOptions.map(opt => `<th>${opt}</th>`).join('')}
+        </tr>
+        ${makeLikertRow("natural", "This sentence sounds natural.")}
+        ${makeLikertRow("mobile", tv.mobile)}
+        ${makeLikertRow("manipulability", tv.manipulability)}
+        ${makeLikertRow("volition", tv.volition)}
+        ${makeLikertRow("sentient", tv.sentient)}
+        ${makeLikertRow("potent", tv.potent)}
+        ${makeLikertRow("instigation", tv.instigation)}
+      </table>
+    `,
+    data: {
+      id: tv.id,
+      subj: tv.subj
+    }
+  };
+}
