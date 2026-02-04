@@ -1,0 +1,1103 @@
+rt,stimulus,trial_type,trial_index,plugin_version,time_elapsed,subject_id,study_id,session_id,id,subj,source_file,natural,mobile,volition,potent,sentient,instigation,manipulability
+9946,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,9968,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,,,0c9wyq2180.csv,,,,,,,
+112803,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,122767,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,,,0c9wyq2180.csv,,,,,,,
+58440,,survey-html-form,2,2.1.0,181209,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,22.0,human,0c9wyq2180.csv,6,6,4,5,4,6,4
+150752,,survey-html-form,3,2.1.0,331957,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,12.0,human,0c9wyq2180.csv,6,6,5,6,4,6,4
+75736,,survey-html-form,4,2.1.0,407691,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,23.0,instrument,0c9wyq2180.csv,5,2,2,4,1,5,4
+18069,,survey-html-form,5,2.1.0,425762,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,8.0,human,0c9wyq2180.csv,6,6,5,6,5,6,4
+261522,,survey-html-form,6,2.1.0,687275,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,21.0,instrument,0c9wyq2180.csv,4,2,3,4,2,4,5
+36235,,survey-html-form,7,2.1.0,723509,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,24.0,human,0c9wyq2180.csv,5,4,4,4,5,5,3
+33155,,survey-html-form,8,2.1.0,756664,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,5.0,instrument,0c9wyq2180.csv,6,4,3,2,2,4,6
+73335,,survey-html-form,9,2.1.0,829997,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,20.0,human,0c9wyq2180.csv,6,6,5,3,5,5,4
+48666,,survey-html-form,10,2.1.0,878662,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,4.0,human,0c9wyq2180.csv,5,6,5,6,5,5,4
+44344,,survey-html-form,11,2.1.0,923006,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,1.0,instrument,0c9wyq2180.csv,3,4,4,3,3,5,4
+25927,,survey-html-form,12,2.1.0,948933,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,11.0,instrument,0c9wyq2180.csv,5,6,2,4,2,3,5
+27458,,survey-html-form,13,2.1.0,976391,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,25.0,instrument,0c9wyq2180.csv,5,4,4,3,3,5,5
+164456,,survey-html-form,14,2.1.0,1140842,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,16.0,human,0c9wyq2180.csv,6,6,5,6,6,6,4
+26813,,survey-html-form,15,2.1.0,1167655,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,14.0,human,0c9wyq2180.csv,6,6,6,6,6,5,4
+43786,,survey-html-form,16,2.1.0,1211441,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,6.0,human,0c9wyq2180.csv,6,6,6,6,5,6,6
+67525,,survey-html-form,17,2.1.0,1278965,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,9.0,instrument,0c9wyq2180.csv,5,5,3,2,4,5,5
+87655,,survey-html-form,18,2.1.0,1366618,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,10.0,human,0c9wyq2180.csv,6,6,5,5,4,6,4
+19171,,survey-html-form,19,2.1.0,1385789,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,17.0,instrument,0c9wyq2180.csv,3,5,4,4,4,4,5
+13470,,survey-html-form,20,2.1.0,1399259,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,2.0,human,0c9wyq2180.csv,6,6,5,6,5,6,4
+17105,,survey-html-form,21,2.1.0,1416365,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,15.0,instrument,0c9wyq2180.csv,3,6,4,5,4,5,5
+28049,,survey-html-form,22,2.1.0,1444414,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,13.0,instrument,0c9wyq2180.csv,4,6,4,4,4,6,5
+17659,,survey-html-form,23,2.1.0,1462073,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,19.0,instrument,0c9wyq2180.csv,5,5,3,3,3,2,5
+13397,,survey-html-form,24,2.1.0,1475471,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,3.0,instrument,0c9wyq2180.csv,5,5,3,3,3,2,6
+17691,,survey-html-form,25,2.1.0,1493162,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,7.0,instrument,0c9wyq2180.csv,3,5,3,2,2,2,5
+20444,,survey-html-form,26,2.1.0,1513607,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,26.0,human,0c9wyq2180.csv,6,6,6,4,6,6,4
+26228,,survey-html-form,27,2.1.0,1539835,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,18.0,human,0c9wyq2180.csv,6,5,5,5,6,6,4
+3467,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1543303,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,,,0c9wyq2180.csv,,,,,,,
+30214,,survey,29,3.0.0,1573632,66b3e078bef7d6dd6c53e015,6980c7c83940647eb7aa7467,6980cdba78c615fb176b5e25,,,0c9wyq2180.csv,,,,,,,
+2788,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,2808,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,,,4dm37hv7qg.csv,,,,,,,
+8623,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,11435,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,,,4dm37hv7qg.csv,,,,,,,
+26465,,survey-html-form,2,2.1.0,37912,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,15.0,instrument,4dm37hv7qg.csv,2,6,6,6,4,6,6
+25479,,survey-html-form,3,2.1.0,63399,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,24.0,human,4dm37hv7qg.csv,7,7,7,7,7,2,7
+20116,,survey-html-form,4,2.1.0,83521,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,20.0,human,4dm37hv7qg.csv,7,7,7,7,7,2,7
+20321,,survey-html-form,5,2.1.0,103849,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,19.0,instrument,4dm37hv7qg.csv,2,6,6,6,6,6,6
+23638,,survey-html-form,6,2.1.0,127494,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,11.0,instrument,4dm37hv7qg.csv,2,6,6,6,6,6,6
+13189,,survey-html-form,7,2.1.0,140689,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,21.0,instrument,4dm37hv7qg.csv,2,6,6,6,6,6,6
+24400,,survey-html-form,8,2.1.0,165095,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,8.0,human,4dm37hv7qg.csv,7,7,7,7,7,2,7
+29205,,survey-html-form,9,2.1.0,194305,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,2.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+19256,,survey-html-form,10,2.1.0,213568,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,12.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+9921,,survey-html-form,11,2.1.0,223495,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,4.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+25345,,survey-html-form,12,2.1.0,248846,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,25.0,instrument,4dm37hv7qg.csv,2,6,2,2,2,6,6
+15019,,survey-html-form,13,2.1.0,263871,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,13.0,instrument,4dm37hv7qg.csv,2,6,6,6,6,6,6
+34313,,survey-html-form,14,2.1.0,298190,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,6.0,human,4dm37hv7qg.csv,7,7,7,7,7,2,2
+19796,,survey-html-form,15,2.1.0,317991,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,22.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,2
+14684,,survey-html-form,16,2.1.0,332681,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,26.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+14116,,survey-html-form,17,2.1.0,346803,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,1.0,instrument,4dm37hv7qg.csv,2,6,6,6,6,6,6
+21395,,survey-html-form,18,2.1.0,368203,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,9.0,instrument,4dm37hv7qg.csv,6,2,2,2,2,6,6
+23490,,survey-html-form,19,2.1.0,391698,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,23.0,instrument,4dm37hv7qg.csv,6,2,2,6,2,6,6
+13765,,survey-html-form,20,2.1.0,405470,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,16.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,2
+25797,,survey-html-form,21,2.1.0,431274,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,3.0,instrument,4dm37hv7qg.csv,2,2,2,2,2,6,6
+17395,,survey-html-form,22,2.1.0,448675,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,5.0,instrument,4dm37hv7qg.csv,2,2,2,2,2,6,6
+15403,,survey-html-form,23,2.1.0,464084,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,18.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,2
+13030,,survey-html-form,24,2.1.0,477119,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,14.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+13465,,survey-html-form,25,2.1.0,490589,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,7.0,instrument,4dm37hv7qg.csv,2,2,2,2,2,2,6
+13854,,survey-html-form,26,2.1.0,504449,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,17.0,instrument,4dm37hv7qg.csv,2,2,2,2,2,2,2
+13625,,survey-html-form,27,2.1.0,518080,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,10.0,human,4dm37hv7qg.csv,7,7,7,7,7,7,7
+2927,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,521012,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,,,4dm37hv7qg.csv,,,,,,,
+60319,,survey,29,3.0.0,581600,628fde22d960fa7a63fb231d,6980c7c83940647eb7aa7467,6980cd37357e3ecc98c01885,,,4dm37hv7qg.csv,,,,,,,
+6072,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,6086,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,,,6s7u8tzx8h.csv,,,,,,,
+198806,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,204894,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,,,6s7u8tzx8h.csv,,,,,,,
+48302,,survey-html-form,2,2.1.0,253200,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,18.0,instrument,6s7u8tzx8h.csv,7,2,1,1,2,2,5
+50505,,survey-html-form,3,2.1.0,303708,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,26.0,instrument,6s7u8tzx8h.csv,7,6,2,1,1,1,6
+85084,,survey-html-form,4,2.1.0,388794,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,25.0,human,6s7u8tzx8h.csv,7,7,7,6,6,5,7
+116808,,survey-html-form,5,2.1.0,505604,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,14.0,instrument,6s7u8tzx8h.csv,6,2,1,1,1,1,5
+41804,,survey-html-form,6,2.1.0,547410,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,2.0,instrument,6s7u8tzx8h.csv,5,1,1,1,1,1,1
+37652,,survey-html-form,7,2.1.0,585065,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,15.0,human,6s7u8tzx8h.csv,7,7,7,6,6,6,7
+75188,,survey-html-form,8,2.1.0,660255,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,23.0,human,6s7u8tzx8h.csv,6,7,6,6,6,6,7
+146650,,survey-html-form,9,2.1.0,806907,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,5.0,human,6s7u8tzx8h.csv,6,6,6,6,6,6,4
+43104,,survey-html-form,10,2.1.0,850013,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,7.0,human,6s7u8tzx8h.csv,6,6,6,6,6,6,6
+29216,,survey-html-form,11,2.1.0,879231,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,19.0,human,6s7u8tzx8h.csv,6,6,6,6,6,6,6
+40418,,survey-html-form,12,2.1.0,919651,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,6.0,instrument,6s7u8tzx8h.csv,6,4,1,1,1,1,6
+37307,,survey-html-form,13,2.1.0,956960,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,20.0,instrument,6s7u8tzx8h.csv,6,1,1,1,1,5,5
+26710,,survey-html-form,14,2.1.0,983673,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,22.0,instrument,6s7u8tzx8h.csv,5,2,2,2,2,2,5
+35266,,survey-html-form,15,2.1.0,1018941,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,4.0,instrument,6s7u8tzx8h.csv,2,2,2,2,2,2,6
+31582,,survey-html-form,16,2.1.0,1050524,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,16.0,instrument,6s7u8tzx8h.csv,3,3,2,2,2,2,5
+110214,,survey-html-form,17,2.1.0,1160741,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,13.0,human,6s7u8tzx8h.csv,6,6,4,6,2,6,3
+117054,,survey-html-form,18,2.1.0,1277797,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,17.0,human,6s7u8tzx8h.csv,7,7,6,6,6,6,6
+105713,,survey-html-form,19,2.1.0,1383512,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,21.0,human,6s7u8tzx8h.csv,7,6,6,6,6,6,6
+78509,,survey-html-form,20,2.1.0,1462023,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,24.0,instrument,6s7u8tzx8h.csv,6,2,2,2,2,2,6
+193848,,survey-html-form,21,2.1.0,1655874,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,9.0,human,6s7u8tzx8h.csv,5,6,6,6,6,6,6
+167957,,survey-html-form,22,2.1.0,1823834,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,3.0,human,6s7u8tzx8h.csv,6,7,7,6,6,2,6
+172296,,survey-html-form,23,2.1.0,1996133,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,10.0,instrument,6s7u8tzx8h.csv,5,4,2,2,2,2,4
+141844,,survey-html-form,24,2.1.0,2137979,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,1.0,human,6s7u8tzx8h.csv,7,7,7,7,7,7,7
+75543,,survey-html-form,25,2.1.0,2213524,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,12.0,instrument,6s7u8tzx8h.csv,2,2,2,2,2,2,2
+41649,,survey-html-form,26,2.1.0,2255175,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,8.0,instrument,6s7u8tzx8h.csv,3,3,3,3,3,3,3
+109409,,survey-html-form,27,2.1.0,2364585,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,11.0,human,6s7u8tzx8h.csv,6,6,6,6,6,6,6
+8487,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,2373074,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,,,6s7u8tzx8h.csv,,,,,,,
+111174,,survey,29,3.0.0,2484431,6739e4d9335667b4852ccf4e,6980c7c83940647eb7aa7467,6980ceb9fcc2625799ee5ddb,,,6s7u8tzx8h.csv,,,,,,,
+6551,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,6574,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,,,73awmz5upv.csv,,,,,,,
+22645,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,29224,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,,,73awmz5upv.csv,,,,,,,
+62638,,survey-html-form,2,2.1.0,91872,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,26.0,human,73awmz5upv.csv,5,4,2,2,2,5,3
+36358,,survey-html-form,3,2.1.0,128237,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,21.0,instrument,73awmz5upv.csv,4,2,2,2,2,2,6
+42829,,survey-html-form,4,2.1.0,171073,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,22.0,human,73awmz5upv.csv,4,5,2,5,5,5,5
+21063,,survey-html-form,5,2.1.0,192144,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,16.0,human,73awmz5upv.csv,4,5,2,5,5,5,5
+24720,,survey-html-form,6,2.1.0,216871,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,12.0,human,73awmz5upv.csv,4,5,2,5,5,5,5
+25664,,survey-html-form,7,2.1.0,242543,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,5.0,instrument,73awmz5upv.csv,4,2,2,2,2,2,2
+31085,,survey-html-form,8,2.1.0,273636,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,2.0,human,73awmz5upv.csv,5,5,2,5,5,5,5
+38213,,survey-html-form,9,2.1.0,311856,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,20.0,human,73awmz5upv.csv,4,5,3,2,5,2,5
+32562,,survey-html-form,10,2.1.0,344423,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,13.0,instrument,73awmz5upv.csv,3,2,2,2,2,2,5
+31131,,survey-html-form,11,2.1.0,375562,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,11.0,instrument,73awmz5upv.csv,4,2,2,2,2,2,5
+34348,,survey-html-form,12,2.1.0,409918,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,6.0,human,73awmz5upv.csv,5,5,3,5,5,4,5
+24702,,survey-html-form,13,2.1.0,434627,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,18.0,human,73awmz5upv.csv,5,5,3,5,5,3,5
+26018,,survey-html-form,14,2.1.0,460653,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,15.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,5
+30119,,survey-html-form,15,2.1.0,490779,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,14.0,human,73awmz5upv.csv,5,5,3,5,5,5,5
+46042,,survey-html-form,16,2.1.0,536828,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,4.0,human,73awmz5upv.csv,5,5,3,5,5,5,5
+19273,,survey-html-form,17,2.1.0,556108,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,3.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+16423,,survey-html-form,18,2.1.0,572539,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,1.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+12613,,survey-html-form,19,2.1.0,585158,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,17.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+17167,,survey-html-form,20,2.1.0,602332,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,19.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+22220,,survey-html-form,21,2.1.0,624559,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,9.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+18576,,survey-html-form,22,2.1.0,643142,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,10.0,human,73awmz5upv.csv,5,5,3,5,5,5,5
+15506,,survey-html-form,23,2.1.0,658653,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,25.0,instrument,73awmz5upv.csv,2,2,2,2,2,2,4
+29135,,survey-html-form,24,2.1.0,687793,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,8.0,human,73awmz5upv.csv,5,5,3,5,5,5,5
+31867,,survey-html-form,25,2.1.0,719667,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,23.0,instrument,73awmz5upv.csv,2,2,2,2,2,4,5
+39029,,survey-html-form,26,2.1.0,758705,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,7.0,instrument,73awmz5upv.csv,2,2,2,2,2,3,5
+20299,,survey-html-form,27,2.1.0,779012,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,24.0,human,73awmz5upv.csv,5,5,3,5,5,5,5
+7194,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,786214,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,,,73awmz5upv.csv,,,,,,,
+84491,,survey,29,3.0.0,870917,5c31847f10677f0001ddc781,6980c7c83940647eb7aa7467,6980cd8f81d04b88c7fd59d2,,,73awmz5upv.csv,,,,,,,
+7741,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,7757,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,,,7lzlft5dm2.csv,,,,,,,
+147779,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,155524,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,,,7lzlft5dm2.csv,,,,,,,
+73192,,survey-html-form,2,2.1.0,228714,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,1.0,instrument,7lzlft5dm2.csv,2,2,2,2,4,3,7
+60635,,survey-html-form,3,2.1.0,289348,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,23.0,instrument,7lzlft5dm2.csv,6,2,1,6,4,6,5
+78237,,survey-html-form,4,2.1.0,367585,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,14.0,human,7lzlft5dm2.csv,7,7,6,7,4,7,6
+115375,,survey-html-form,5,2.1.0,482954,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,17.0,instrument,7lzlft5dm2.csv,2,2,1,1,2,4,7
+113890,,survey-html-form,6,2.1.0,596844,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,21.0,instrument,7lzlft5dm2.csv,5,1,2,3,2,4,7
+40128,,survey-html-form,7,2.1.0,636971,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,24.0,human,7lzlft5dm2.csv,6,7,7,2,5,6,7
+41029,,survey-html-form,8,2.1.0,677999,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,15.0,instrument,7lzlft5dm2.csv,2,4,1,1,2,4,6
+86201,,survey-html-form,9,2.1.0,764199,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,19.0,instrument,7lzlft5dm2.csv,5,5,1,1,2,3,7
+80470,,survey-html-form,10,2.1.0,844667,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,13.0,instrument,7lzlft5dm2.csv,3,5,1,1,2,4,7
+29206,,survey-html-form,11,2.1.0,873873,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,18.0,human,7lzlft5dm2.csv,7,7,7,7,6,6,7
+73077,,survey-html-form,12,2.1.0,946948,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,10.0,human,7lzlft5dm2.csv,7,7,7,7,6,7,7
+59745,,survey-html-form,13,2.1.0,1006692,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,3.0,instrument,7lzlft5dm2.csv,4,3,1,2,2,5,7
+36771,,survey-html-form,14,2.1.0,1043465,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,7.0,instrument,7lzlft5dm2.csv,1,4,1,1,2,3,7
+30708,,survey-html-form,15,2.1.0,1074171,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,12.0,human,7lzlft5dm2.csv,7,7,7,5,6,7,5
+31169,,survey-html-form,16,2.1.0,1105342,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,9.0,instrument,7lzlft5dm2.csv,6,4,1,1,2,6,7
+27540,,survey-html-form,17,2.1.0,1132881,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,8.0,human,7lzlft5dm2.csv,7,7,7,7,6,6,4
+35356,,survey-html-form,18,2.1.0,1168240,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,26.0,human,7lzlft5dm2.csv,7,7,7,2,6,7,4
+31314,,survey-html-form,19,2.1.0,1199552,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,6.0,human,7lzlft5dm2.csv,7,7,7,5,6,5,4
+42492,,survey-html-form,20,2.1.0,1242042,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,22.0,human,7lzlft5dm2.csv,7,7,7,5,6,5,5
+26088,,survey-html-form,21,2.1.0,1268133,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,2.0,human,7lzlft5dm2.csv,7,7,7,6,6,5,5
+39505,,survey-html-form,22,2.1.0,1307637,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,20.0,human,7lzlft5dm2.csv,7,7,7,3,6,3,5
+38506,,survey-html-form,23,2.1.0,1346145,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,16.0,human,7lzlft5dm2.csv,7,7,6,7,6,5,5
+47292,,survey-html-form,24,2.1.0,1393436,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,5.0,instrument,7lzlft5dm2.csv,5,3,2,1,2,4,7
+31811,,survey-html-form,25,2.1.0,1425248,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,4.0,human,7lzlft5dm2.csv,7,7,6,7,6,6,5
+27372,,survey-html-form,26,2.1.0,1452622,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,11.0,instrument,7lzlft5dm2.csv,6,7,6,7,5,5,5
+49427,,survey-html-form,27,2.1.0,1502048,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,25.0,instrument,7lzlft5dm2.csv,6,5,1,4,2,5,7
+6130,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1508181,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,,,7lzlft5dm2.csv,,,,,,,
+109622,,survey,29,3.0.0,1617953,6737b69daf0903583088288c,6980c7c83940647eb7aa7467,6980cdbc3efb1171ed1265a5,,,7lzlft5dm2.csv,,,,,,,
+3149,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,3158,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,,,8b8nyb7l25.csv,,,,,,,
+29805,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,32968,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,,,8b8nyb7l25.csv,,,,,,,
+99906,,survey-html-form,2,2.1.0,132882,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,4.0,instrument,8b8nyb7l25.csv,6,2,1,1,1,3,6
+81974,,survey-html-form,3,2.1.0,214862,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,12.0,instrument,8b8nyb7l25.csv,6,2,2,1,1,2,7
+40017,,survey-html-form,4,2.1.0,254890,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,8.0,instrument,8b8nyb7l25.csv,6,2,1,1,1,2,7
+84904,,survey-html-form,5,2.1.0,339804,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,6.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,7
+44425,,survey-html-form,6,2.1.0,384236,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,17.0,human,8b8nyb7l25.csv,7,7,7,7,7,7,2
+80933,,survey-html-form,7,2.1.0,465177,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,23.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+39187,,survey-html-form,8,2.1.0,504374,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,16.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,7
+85986,,survey-html-form,9,2.1.0,590372,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,24.0,instrument,8b8nyb7l25.csv,6,2,1,2,1,2,7
+36999,,survey-html-form,10,2.1.0,627385,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,21.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+37536,,survey-html-form,11,2.1.0,664930,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,1.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+22492,,survey-html-form,12,2.1.0,687432,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,15.0,human,8b8nyb7l25.csv,7,7,7,7,7,7,2
+24239,,survey-html-form,13,2.1.0,711682,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,3.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+25659,,survey-html-form,14,2.1.0,737351,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,18.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,6
+36927,,survey-html-form,15,2.1.0,774287,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,7.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+69660,,survey-html-form,16,2.1.0,843958,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,10.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,7
+62689,,survey-html-form,17,2.1.0,906658,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,9.0,human,8b8nyb7l25.csv,6,7,7,7,7,6,2
+20812,,survey-html-form,18,2.1.0,927488,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,11.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+65179,,survey-html-form,19,2.1.0,992678,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,26.0,instrument,8b8nyb7l25.csv,6,2,1,1,1,2,6
+24875,,survey-html-form,20,2.1.0,1017568,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,20.0,instrument,8b8nyb7l25.csv,6,2,1,1,1,2,7
+41913,,survey-html-form,21,2.1.0,1059492,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,2.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,7
+26535,,survey-html-form,22,2.1.0,1086037,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,19.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+19288,,survey-html-form,23,2.1.0,1105341,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,13.0,human,8b8nyb7l25.csv,7,7,7,7,7,6,2
+16754,,survey-html-form,24,2.1.0,1122113,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,25.0,human,8b8nyb7l25.csv,7,7,7,7,7,7,2
+27330,,survey-html-form,25,2.1.0,1149455,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,5.0,human,8b8nyb7l25.csv,6,7,7,7,7,7,2
+78081,,survey-html-form,26,2.1.0,1227545,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,22.0,instrument,8b8nyb7l25.csv,6,2,1,1,1,2,7
+47206,,survey-html-form,27,2.1.0,1274761,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,14.0,instrument,8b8nyb7l25.csv,7,2,1,1,1,2,7
+7492,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1282262,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,,,8b8nyb7l25.csv,,,,,,,
+42172,,survey,29,3.0.0,1324555,59f226a9d6380600018b2923,6980c7c83940647eb7aa7467,6980cdb0c7516c1863f62c25,,,8b8nyb7l25.csv,,,,,,,
+4576,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,4601,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,,,ekqxnxc8hr.csv,,,,,,,
+11780,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,16384,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,,,ekqxnxc8hr.csv,,,,,,,
+26444,,survey-html-form,2,2.1.0,42833,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,6.0,human,ekqxnxc8hr.csv,7,7,7,7,7,7,6
+25479,,survey-html-form,3,2.1.0,68315,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,5.0,instrument,ekqxnxc8hr.csv,6,2,1,1,1,6,7
+22744,,survey-html-form,4,2.1.0,91062,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,25.0,instrument,ekqxnxc8hr.csv,6,1,1,3,1,6,7
+17217,,survey-html-form,5,2.1.0,108280,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,10.0,human,ekqxnxc8hr.csv,7,7,7,7,7,6,6
+46844,,survey-html-form,6,2.1.0,155128,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,22.0,human,ekqxnxc8hr.csv,7,7,7,6,7,5,6
+33304,,survey-html-form,7,2.1.0,188434,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,20.0,human,ekqxnxc8hr.csv,7,7,7,3,7,3,6
+24175,,survey-html-form,8,2.1.0,212612,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,13.0,instrument,ekqxnxc8hr.csv,7,3,1,2,1,6,7
+17342,,survey-html-form,9,2.1.0,229956,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,9.0,instrument,ekqxnxc8hr.csv,7,2,1,2,1,7,7
+32083,,survey-html-form,10,2.1.0,262043,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,7.0,instrument,ekqxnxc8hr.csv,3,3,1,1,1,3,7
+21100,,survey-html-form,11,2.1.0,283146,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,15.0,instrument,ekqxnxc8hr.csv,2,3,1,1,1,3,7
+12817,,survey-html-form,12,2.1.0,295966,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,2.0,human,ekqxnxc8hr.csv,7,7,7,6,7,7,6
+14351,,survey-html-form,13,2.1.0,310319,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,18.0,human,ekqxnxc8hr.csv,7,7,7,6,7,6,6
+19300,,survey-html-form,14,2.1.0,329621,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,23.0,instrument,ekqxnxc8hr.csv,5,1,1,6,1,7,2
+19838,,survey-html-form,15,2.1.0,349462,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,1.0,instrument,ekqxnxc8hr.csv,2,1,1,1,1,5,7
+11874,,survey-html-form,16,2.1.0,361338,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,14.0,human,ekqxnxc8hr.csv,7,7,7,7,7,7,6
+49778,,survey-html-form,17,2.1.0,411118,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,8.0,human,ekqxnxc8hr.csv,6,7,7,6,7,7,6
+24022,,survey-html-form,18,2.1.0,435141,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,19.0,instrument,ekqxnxc8hr.csv,3,2,1,1,1,3,7
+16494,,survey-html-form,19,2.1.0,451636,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,12.0,human,ekqxnxc8hr.csv,6,7,7,6,7,7,6
+23393,,survey-html-form,20,2.1.0,475031,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,4.0,human,ekqxnxc8hr.csv,7,7,7,7,7,7,6
+18382,,survey-html-form,21,2.1.0,493415,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,21.0,instrument,ekqxnxc8hr.csv,3,1,1,3,1,6,7
+12576,,survey-html-form,22,2.1.0,505993,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,17.0,instrument,ekqxnxc8hr.csv,2,1,1,1,1,2,7
+18712,,survey-html-form,23,2.1.0,524707,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,3.0,instrument,ekqxnxc8hr.csv,3,2,1,2,1,5,7
+20423,,survey-html-form,24,2.1.0,545132,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,24.0,human,ekqxnxc8hr.csv,6,6,7,2,7,3,6
+29225,,survey-html-form,25,2.1.0,574360,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,26.0,human,ekqxnxc8hr.csv,7,7,7,2,7,3,6
+12706,,survey-html-form,26,2.1.0,587068,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,11.0,instrument,ekqxnxc8hr.csv,3,2,1,1,1,5,7
+12932,,survey-html-form,27,2.1.0,600003,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,16.0,human,ekqxnxc8hr.csv,7,7,7,6,7,7,6
+4558,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,604572,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,,,ekqxnxc8hr.csv,,,,,,,
+106519,,survey,29,3.0.0,711348,695fe7a6e512deea3d56cdb5,6980c7c83940647eb7aa7467,6980d575d79dba199d343683,,,ekqxnxc8hr.csv,,,,,,,
+6480,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,6488,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,,,g040hczbh7.csv,,,,,,,
+21066,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,27556,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,,,g040hczbh7.csv,,,,,,,
+18614,,survey-html-form,2,2.1.0,46173,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,8.0,human,g040hczbh7.csv,6,7,7,7,7,7,7
+18901,,survey-html-form,3,2.1.0,65075,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,2.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+15203,,survey-html-form,4,2.1.0,80280,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,13.0,instrument,g040hczbh7.csv,7,7,1,1,1,2,7
+9678,,survey-html-form,5,2.1.0,89959,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,3.0,instrument,g040hczbh7.csv,7,7,1,1,1,2,7
+10827,,survey-html-form,6,2.1.0,100787,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,16.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+12531,,survey-html-form,7,2.1.0,113319,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,12.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+26171,,survey-html-form,8,2.1.0,139492,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,24.0,human,g040hczbh7.csv,7,7,7,1,7,7,7
+10463,,survey-html-form,9,2.1.0,149957,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,18.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+9865,,survey-html-form,10,2.1.0,159823,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,14.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+9499,,survey-html-form,11,2.1.0,169324,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,4.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+25478,,survey-html-form,12,2.1.0,194804,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,22.0,human,g040hczbh7.csv,7,7,7,6,7,7,7
+21037,,survey-html-form,13,2.1.0,215844,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,20.0,human,g040hczbh7.csv,7,7,7,2,7,6,7
+15691,,survey-html-form,14,2.1.0,231535,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,7.0,instrument,g040hczbh7.csv,1,7,1,1,1,1,7
+17023,,survey-html-form,15,2.1.0,248560,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,9.0,instrument,g040hczbh7.csv,6,7,1,1,1,6,7
+20031,,survey-html-form,16,2.1.0,268592,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,23.0,instrument,g040hczbh7.csv,6,1,1,5,1,6,7
+16294,,survey-html-form,17,2.1.0,284888,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,5.0,instrument,g040hczbh7.csv,7,7,1,1,1,5,7
+18921,,survey-html-form,18,2.1.0,303811,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,19.0,instrument,g040hczbh7.csv,7,7,1,1,1,1,7
+20099,,survey-html-form,19,2.1.0,323911,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,1.0,instrument,g040hczbh7.csv,5,5,1,1,1,2,7
+15126,,survey-html-form,20,2.1.0,339039,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,15.0,instrument,g040hczbh7.csv,1,5,1,1,1,1,7
+12438,,survey-html-form,21,2.1.0,351479,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,17.0,instrument,g040hczbh7.csv,1,5,1,1,1,2,7
+24231,,survey-html-form,22,2.1.0,375711,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,21.0,instrument,g040hczbh7.csv,5,2,1,1,1,6,7
+13499,,survey-html-form,23,2.1.0,389211,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,11.0,instrument,g040hczbh7.csv,1,5,1,1,1,5,7
+8963,,survey-html-form,24,2.1.0,398175,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,10.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+10067,,survey-html-form,25,2.1.0,408243,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,6.0,human,g040hczbh7.csv,7,7,7,7,7,7,7
+20087,,survey-html-form,26,2.1.0,428331,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,25.0,instrument,g040hczbh7.csv,5,5,1,1,1,5,7
+16299,,survey-html-form,27,2.1.0,444631,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,26.0,human,g040hczbh7.csv,7,7,7,1,7,6,7
+3366,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,447999,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,,,g040hczbh7.csv,,,,,,,
+403279,,survey,29,3.0.0,851353,5e836a3c2598d409928dae31,6980c7c83940647eb7aa7467,6980cdbfb42725d97b3a67ce,,,g040hczbh7.csv,,,,,,,
+5628,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,5654,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,,,jaelv3qat2.csv,,,,,,,
+9584,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,15240,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,,,jaelv3qat2.csv,,,,,,,
+26066,,survey-html-form,2,2.1.0,41310,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,14.0,instrument,jaelv3qat2.csv,3,1,1,1,1,1,7
+19397,,survey-html-form,3,2.1.0,60709,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,5.0,human,jaelv3qat2.csv,6,6,6,6,6,6,6
+15648,,survey-html-form,4,2.1.0,76358,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,12.0,instrument,jaelv3qat2.csv,2,2,1,1,1,1,7
+22213,,survey-html-form,5,2.1.0,98573,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,23.0,human,jaelv3qat2.csv,5,7,7,6,7,6,7
+20268,,survey-html-form,6,2.1.0,118843,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,6.0,instrument,jaelv3qat2.csv,3,2,1,1,1,1,7
+16175,,survey-html-form,7,2.1.0,135021,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,17.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+14271,,survey-html-form,8,2.1.0,149295,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,10.0,instrument,jaelv3qat2.csv,1,1,1,1,1,1,7
+121712,,survey-html-form,9,2.1.0,271009,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,25.0,human,jaelv3qat2.csv,7,7,7,6,7,7,7
+14838,,survey-html-form,10,2.1.0,285849,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,4.0,instrument,jaelv3qat2.csv,1,1,1,1,1,1,7
+16182,,survey-html-form,11,2.1.0,302034,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,16.0,instrument,jaelv3qat2.csv,1,1,1,1,1,1,7
+26474,,survey-html-form,12,2.1.0,328510,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,24.0,instrument,jaelv3qat2.csv,6,3,1,1,1,5,1
+24123,,survey-html-form,13,2.1.0,352636,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,26.0,instrument,jaelv3qat2.csv,5,5,1,1,1,1,7
+16102,,survey-html-form,14,2.1.0,368740,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,22.0,instrument,jaelv3qat2.csv,3,4,1,1,1,3,1
+23108,,survey-html-form,15,2.1.0,391849,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,20.0,instrument,jaelv3qat2.csv,6,1,1,1,1,2,7
+53726,,survey-html-form,16,2.1.0,445577,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,2.0,instrument,jaelv3qat2.csv,1,1,1,1,1,1,7
+16448,,survey-html-form,17,2.1.0,462028,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,7.0,human,jaelv3qat2.csv,6,7,7,7,7,7,7
+19388,,survey-html-form,18,2.1.0,481418,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,9.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+16880,,survey-html-form,19,2.1.0,498300,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,1.0,human,jaelv3qat2.csv,6,7,7,7,7,7,7
+12576,,survey-html-form,20,2.1.0,510877,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,19.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+20628,,survey-html-form,21,2.1.0,531507,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,8.0,instrument,jaelv3qat2.csv,2,2,1,1,1,1,7
+16224,,survey-html-form,22,2.1.0,547733,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,13.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+14136,,survey-html-form,23,2.1.0,561871,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,11.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+20163,,survey-html-form,24,2.1.0,582037,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,18.0,instrument,jaelv3qat2.csv,1,1,1,1,1,1,7
+13439,,survey-html-form,25,2.1.0,595479,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,15.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+22237,,survey-html-form,26,2.1.0,617718,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,21.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+12330,,survey-html-form,27,2.1.0,630049,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,3.0,human,jaelv3qat2.csv,7,7,7,7,7,7,7
+3796,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,633847,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,,,jaelv3qat2.csv,,,,,,,
+63823,,survey,29,3.0.0,697837,5dda993086c886a06ce9108d,6980c7c83940647eb7aa7467,6980d0fb2dc0fca817fd9d4a,,,jaelv3qat2.csv,,,,,,,
+2983,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,3006,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,,,jl44fxzrnl.csv,,,,,,,
+859609,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,862619,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,,,jl44fxzrnl.csv,,,,,,,
+65235,,survey-html-form,2,2.1.0,927858,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,11.0,human,jl44fxzrnl.csv,7,7,7,7,6,7,7
+111375,,survey-html-form,3,2.1.0,1039236,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,6.0,instrument,jl44fxzrnl.csv,6,1,1,1,1,6,7
+25591,,survey-html-form,4,2.1.0,1064830,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,19.0,human,jl44fxzrnl.csv,6,7,6,7,7,7,5
+11418,,survey-html-form,5,2.1.0,1076251,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,16.0,instrument,jl44fxzrnl.csv,4,2,1,1,1,5,7
+12470,,survey-html-form,6,2.1.0,1088724,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,24.0,instrument,jl44fxzrnl.csv,7,1,1,2,1,7,5
+17092,,survey-html-form,7,2.1.0,1105819,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,3.0,human,jl44fxzrnl.csv,7,7,6,7,6,6,5
+11709,,survey-html-form,8,2.1.0,1117531,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,8.0,instrument,jl44fxzrnl.csv,5,2,1,1,1,7,7
+11983,,survey-html-form,9,2.1.0,1129519,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,14.0,instrument,jl44fxzrnl.csv,7,1,1,4,1,6,7
+83993,,survey-html-form,10,2.1.0,1213515,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,10.0,instrument,jl44fxzrnl.csv,5,3,1,3,1,3,7
+14556,,survey-html-form,11,2.1.0,1228073,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,23.0,human,jl44fxzrnl.csv,5,7,6,2,7,1,5
+77670,,survey-html-form,12,2.1.0,1305747,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,21.0,human,jl44fxzrnl.csv,6,7,7,1,7,7,4
+14210,,survey-html-form,13,2.1.0,1319959,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,12.0,instrument,jl44fxzrnl.csv,5,2,1,2,1,5,7
+105473,,survey-html-form,14,2.1.0,1425436,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,18.0,instrument,jl44fxzrnl.csv,7,1,1,1,1,6,7
+11534,,survey-html-form,15,2.1.0,1436973,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,20.0,instrument,jl44fxzrnl.csv,7,1,1,6,1,7,7
+19242,,survey-html-form,16,2.1.0,1456217,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,7.0,human,jl44fxzrnl.csv,7,7,7,7,7,7,5
+43954,,survey-html-form,17,2.1.0,1500173,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,15.0,human,jl44fxzrnl.csv,7,7,7,7,7,7,5
+28039,,survey-html-form,18,2.1.0,1528214,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,9.0,human,jl44fxzrnl.csv,7,7,6,7,7,6,5
+15172,,survey-html-form,19,2.1.0,1543389,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,25.0,human,jl44fxzrnl.csv,7,7,7,3,6,5,6
+20883,,survey-html-form,20,2.1.0,1564275,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,22.0,instrument,jl44fxzrnl.csv,3,3,1,3,1,6,7
+15682,,survey-html-form,21,2.1.0,1579960,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,4.0,instrument,jl44fxzrnl.csv,5,2,1,2,1,3,7
+13277,,survey-html-form,22,2.1.0,1593242,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,5.0,human,jl44fxzrnl.csv,7,7,7,7,7,7,5
+95909,,survey-html-form,23,2.1.0,1689154,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,26.0,instrument,jl44fxzrnl.csv,6,5,1,6,1,7,7
+19648,,survey-html-form,24,2.1.0,1708804,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,2.0,instrument,jl44fxzrnl.csv,3,2,1,1,1,5,7
+13449,,survey-html-form,25,2.1.0,1722256,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,1.0,human,jl44fxzrnl.csv,7,7,7,6,7,7,5
+14517,,survey-html-form,26,2.1.0,1736776,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,17.0,human,jl44fxzrnl.csv,7,7,6,7,6,7,3
+10696,,survey-html-form,27,2.1.0,1747475,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,13.0,human,jl44fxzrnl.csv,7,7,6,6,6,6,5
+2916,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1750394,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,,,jl44fxzrnl.csv,,,,,,,
+25535,,survey,29,3.0.0,1776104,5b53e95f4bbe600001465c18,6980c7c83940647eb7aa7467,6980df18c161fefadc9b4ac9,,,jl44fxzrnl.csv,,,,,,,
+1682,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,1695,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,,,ksp247hbhp.csv,,,,,,,
+46532,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,48227,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,,,ksp247hbhp.csv,,,,,,,
+21568,,survey-html-form,2,2.1.0,69800,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,12.0,human,ksp247hbhp.csv,5,6,3,7,1,7,4
+44401,,survey-html-form,3,2.1.0,114202,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,22.0,human,ksp247hbhp.csv,2,6,7,7,5,7,3
+16196,,survey-html-form,4,2.1.0,130400,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,3.0,instrument,ksp247hbhp.csv,3,3,1,1,1,2,7
+14208,,survey-html-form,5,2.1.0,144610,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,19.0,instrument,ksp247hbhp.csv,3,1,1,1,1,3,7
+21266,,survey-html-form,6,2.1.0,165878,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,13.0,instrument,ksp247hbhp.csv,5,1,1,1,1,5,7
+22604,,survey-html-form,7,2.1.0,188484,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,11.0,instrument,ksp247hbhp.csv,2,1,1,1,1,5,7
+12403,,survey-html-form,8,2.1.0,200890,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,25.0,instrument,ksp247hbhp.csv,6,5,1,1,1,7,7
+14680,,survey-html-form,9,2.1.0,215572,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,16.0,human,ksp247hbhp.csv,7,7,7,7,7,5,1
+13778,,survey-html-form,10,2.1.0,229352,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,18.0,human,ksp247hbhp.csv,7,7,7,7,7,7,4
+14943,,survey-html-form,11,2.1.0,244296,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,20.0,human,ksp247hbhp.csv,6,7,7,7,7,7,1
+12159,,survey-html-form,12,2.1.0,256457,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,1.0,instrument,ksp247hbhp.csv,2,1,1,1,1,5,7
+13968,,survey-html-form,13,2.1.0,270428,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,10.0,human,ksp247hbhp.csv,7,7,7,7,6,7,1
+16360,,survey-html-form,14,2.1.0,286789,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,5.0,instrument,ksp247hbhp.csv,6,2,1,1,1,7,7
+17127,,survey-html-form,15,2.1.0,303917,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,7.0,instrument,ksp247hbhp.csv,1,3,1,1,1,2,7
+13478,,survey-html-form,16,2.1.0,317397,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,8.0,human,ksp247hbhp.csv,2,7,6,7,6,6,3
+21842,,survey-html-form,17,2.1.0,339240,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,9.0,instrument,ksp247hbhp.csv,3,2,1,1,1,2,7
+12714,,survey-html-form,18,2.1.0,351956,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,4.0,human,ksp247hbhp.csv,3,7,7,7,7,6,1
+21356,,survey-html-form,19,2.1.0,373313,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,24.0,human,ksp247hbhp.csv,1,7,7,7,7,6,3
+40302,,survey-html-form,20,2.1.0,413616,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,23.0,instrument,ksp247hbhp.csv,3,5,1,6,1,6,7
+15172,,survey-html-form,21,2.1.0,428789,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,6.0,human,ksp247hbhp.csv,5,7,6,7,6,7,1
+16767,,survey-html-form,22,2.1.0,445558,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,21.0,instrument,ksp247hbhp.csv,2,1,1,5,1,7,7
+18272,,survey-html-form,23,2.1.0,463831,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,26.0,human,ksp247hbhp.csv,5,1,7,5,7,6,1
+21470,,survey-html-form,24,2.1.0,485302,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,17.0,instrument,ksp247hbhp.csv,2,1,1,1,1,3,6
+15554,,survey-html-form,25,2.1.0,500858,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,2.0,human,ksp247hbhp.csv,5,7,6,5,6,5,2
+13019,,survey-html-form,26,2.1.0,513878,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,15.0,instrument,ksp247hbhp.csv,2,1,1,1,1,2,7
+38102,,survey-html-form,27,2.1.0,551981,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,14.0,human,ksp247hbhp.csv,6,7,7,6,7,7,3
+2405,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,554389,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,,,ksp247hbhp.csv,,,,,,,
+48776,,survey,29,3.0.0,603280,663a64da0dbc37192d930b1c,6980c7c83940647eb7aa7467,6980cfa00f9f839bef50e8e0,,,ksp247hbhp.csv,,,,,,,
+2276,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,2295,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,,,ot3we9uu13.csv,,,,,,,
+40962,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,43260,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,,,ot3we9uu13.csv,,,,,,,
+162480,,survey-html-form,2,2.1.0,205744,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,24.0,instrument,ot3we9uu13.csv,7,1,1,1,1,7,1
+21763,,survey-html-form,3,2.1.0,227510,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,13.0,human,ot3we9uu13.csv,7,4,1,1,1,5,1
+16397,,survey-html-form,4,2.1.0,243910,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,6.0,instrument,ot3we9uu13.csv,4,6,1,1,1,5,6
+22581,,survey-html-form,5,2.1.0,266493,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,26.0,instrument,ot3we9uu13.csv,6,4,1,1,4,6,7
+21880,,survey-html-form,6,2.1.0,288376,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,2.0,instrument,ot3we9uu13.csv,2,1,1,2,1,5,7
+44714,,survey-html-form,7,2.1.0,333093,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,3.0,human,ot3we9uu13.csv,7,6,7,1,1,5,1
+25164,,survey-html-form,8,2.1.0,358260,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,14.0,instrument,ot3we9uu13.csv,7,1,1,1,1,6,7
+17730,,survey-html-form,9,2.1.0,375993,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,25.0,human,ot3we9uu13.csv,7,7,7,6,4,6,1
+14865,,survey-html-form,10,2.1.0,390859,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,15.0,human,ot3we9uu13.csv,7,7,7,6,4,7,1
+16947,,survey-html-form,11,2.1.0,407809,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,23.0,human,ot3we9uu13.csv,7,7,7,1,4,2,1
+29697,,survey-html-form,12,2.1.0,437509,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,8.0,instrument,ot3we9uu13.csv,7,1,1,1,4,7,7
+14064,,survey-html-form,13,2.1.0,451575,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,20.0,instrument,ot3we9uu13.csv,7,1,1,1,4,7,7
+15465,,survey-html-form,14,2.1.0,467043,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,12.0,instrument,ot3we9uu13.csv,1,1,1,1,4,7,7
+21765,,survey-html-form,15,2.1.0,488809,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,1.0,human,ot3we9uu13.csv,7,7,7,6,4,6,1
+12948,,survey-html-form,16,2.1.0,501760,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,19.0,human,ot3we9uu13.csv,7,7,7,7,4,7,1
+33832,,survey-html-form,17,2.1.0,535593,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,11.0,human,ot3we9uu13.csv,7,7,7,6,4,6,1
+15381,,survey-html-form,18,2.1.0,550975,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,17.0,human,ot3we9uu13.csv,7,7,7,7,4,7,1
+18382,,survey-html-form,19,2.1.0,569359,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,10.0,instrument,ot3we9uu13.csv,7,1,1,1,4,6,7
+60197,,survey-html-form,20,2.1.0,629558,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,16.0,instrument,ot3we9uu13.csv,1,1,1,1,4,6,6
+21599,,survey-html-form,21,2.1.0,651160,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,5.0,human,ot3we9uu13.csv,6,7,7,5,1,6,1
+14714,,survey-html-form,22,2.1.0,665875,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,7.0,human,ot3we9uu13.csv,7,7,7,7,4,7,1
+38914,,survey-html-form,23,2.1.0,704792,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,21.0,human,ot3we9uu13.csv,7,7,7,7,7,7,1
+24915,,survey-html-form,24,2.1.0,729709,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,9.0,human,ot3we9uu13.csv,7,7,7,4,4,4,1
+21414,,survey-html-form,25,2.1.0,751126,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,22.0,instrument,ot3we9uu13.csv,2,1,1,1,1,7,6
+19381,,survey-html-form,26,2.1.0,770509,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,18.0,instrument,ot3we9uu13.csv,6,1,1,1,1,7,6
+18065,,survey-html-form,27,2.1.0,788576,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,4.0,instrument,ot3we9uu13.csv,1,1,1,1,1,4,7
+2247,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,790825,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,,,ot3we9uu13.csv,,,,,,,
+32288,,survey,29,3.0.0,823172,65d53cf473e1b96ac92b5f33,6980c7c83940647eb7aa7467,6980d00262185a9de3311470,,,ot3we9uu13.csv,,,,,,,
+122915,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,122920,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,,,pp66co54tz.csv,,,,,,,
+32111,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,155032,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,,,pp66co54tz.csv,,,,,,,
+96105,,survey-html-form,2,2.1.0,251139,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,4.0,human,pp66co54tz.csv,7,7,7,7,7,7,4
+81772,,survey-html-form,3,2.1.0,332912,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,23.0,instrument,pp66co54tz.csv,7,2,1,2,1,6,7
+75440,,survey-html-form,4,2.1.0,408353,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,6.0,human,pp66co54tz.csv,7,7,7,7,7,6,7
+39847,,survey-html-form,5,2.1.0,448201,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,2.0,human,pp66co54tz.csv,5,7,7,7,7,5,7
+71103,,survey-html-form,6,2.1.0,519306,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,13.0,instrument,pp66co54tz.csv,7,2,1,1,1,6,7
+57270,,survey-html-form,7,2.1.0,576577,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,15.0,instrument,pp66co54tz.csv,2,2,1,1,1,3,7
+52487,,survey-html-form,8,2.1.0,629066,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,22.0,human,pp66co54tz.csv,7,7,7,7,7,6,7
+111822,,survey-html-form,9,2.1.0,740890,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,3.0,instrument,pp66co54tz.csv,6,2,1,1,1,4,7
+56247,,survey-html-form,10,2.1.0,797138,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,21.0,instrument,pp66co54tz.csv,7,1,1,1,1,3,7
+53871,,survey-html-form,11,2.1.0,851010,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,26.0,human,pp66co54tz.csv,7,7,7,5,7,4,7
+32573,,survey-html-form,12,2.1.0,883584,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,7.0,instrument,pp66co54tz.csv,3,2,1,1,1,2,7
+20816,,survey-html-form,13,2.1.0,904401,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,10.0,human,pp66co54tz.csv,7,7,7,7,7,7,7
+22022,,survey-html-form,14,2.1.0,926426,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,9.0,instrument,pp66co54tz.csv,7,2,1,1,1,3,7
+23854,,survey-html-form,15,2.1.0,950281,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,18.0,human,pp66co54tz.csv,7,7,7,7,7,5,7
+26207,,survey-html-form,16,2.1.0,976489,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,1.0,instrument,pp66co54tz.csv,3,2,1,1,1,5,7
+55214,,survey-html-form,17,2.1.0,1031704,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,24.0,human,pp66co54tz.csv,7,7,7,6,7,6,7
+40159,,survey-html-form,18,2.1.0,1071864,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,12.0,human,pp66co54tz.csv,7,7,7,7,7,6,7
+22735,,survey-html-form,19,2.1.0,1094601,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,17.0,instrument,pp66co54tz.csv,6,2,1,1,1,3,7
+18494,,survey-html-form,20,2.1.0,1113095,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,16.0,human,pp66co54tz.csv,7,7,7,7,7,7,7
+35728,,survey-html-form,21,2.1.0,1148824,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,19.0,instrument,pp66co54tz.csv,7,1,1,1,1,3,7
+27151,,survey-html-form,22,2.1.0,1175977,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,14.0,human,pp66co54tz.csv,7,7,7,7,7,7,7
+39231,,survey-html-form,23,2.1.0,1215208,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,5.0,instrument,pp66co54tz.csv,2,1,1,1,1,3,7
+15693,,survey-html-form,24,2.1.0,1230903,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,11.0,instrument,pp66co54tz.csv,6,2,1,1,1,1,7
+17817,,survey-html-form,25,2.1.0,1248720,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,8.0,human,pp66co54tz.csv,7,7,7,7,7,7,7
+71551,,survey-html-form,26,2.1.0,1320272,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,25.0,instrument,pp66co54tz.csv,5,1,1,1,1,5,7
+35543,,survey-html-form,27,2.1.0,1355817,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,20.0,human,pp66co54tz.csv,7,7,7,6,7,7,7
+6789,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1362607,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,,,pp66co54tz.csv,,,,,,,
+39933,,survey,29,3.0.0,1402599,5fb865ade47b465ad43580d9,6980c7c83940647eb7aa7467,6980ce9c0eb38a8c45785c1d,,,pp66co54tz.csv,,,,,,,
+5668,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,5682,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,,,tg8wzcbhkm.csv,,,,,,,
+13833,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,19518,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,,,tg8wzcbhkm.csv,,,,,,,
+23628,,survey-html-form,2,2.1.0,43149,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,6.0,instrument,tg8wzcbhkm.csv,6,5,2,2,2,6,6
+20434,,survey-html-form,3,2.1.0,63585,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,2.0,instrument,tg8wzcbhkm.csv,6,6,2,1,2,6,6
+19280,,survey-html-form,4,2.1.0,82868,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,25.0,human,tg8wzcbhkm.csv,6,6,5,2,6,3,4
+18696,,survey-html-form,5,2.1.0,101565,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,13.0,human,tg8wzcbhkm.csv,6,6,6,5,6,6,4
+18658,,survey-html-form,6,2.1.0,120225,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,1.0,human,tg8wzcbhkm.csv,6,6,6,5,6,6,4
+18322,,survey-html-form,7,2.1.0,138549,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,16.0,instrument,tg8wzcbhkm.csv,3,2,2,2,2,5,6
+15320,,survey-html-form,8,2.1.0,153871,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,26.0,instrument,tg8wzcbhkm.csv,6,6,2,5,2,6,6
+15265,,survey-html-form,9,2.1.0,169138,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,17.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,4
+16551,,survey-html-form,10,2.1.0,185691,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,22.0,instrument,tg8wzcbhkm.csv,6,3,2,3,2,5,6
+30351,,survey-html-form,11,2.1.0,216044,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,11.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,4
+13188,,survey-html-form,12,2.1.0,229233,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,24.0,instrument,tg8wzcbhkm.csv,6,2,2,6,2,6,2
+12035,,survey-html-form,13,2.1.0,241270,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,7.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,3
+16540,,survey-html-form,14,2.1.0,257812,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,10.0,instrument,tg8wzcbhkm.csv,6,5,2,1,2,5,6
+13685,,survey-html-form,15,2.1.0,271499,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,20.0,instrument,tg8wzcbhkm.csv,6,2,2,5,2,5,6
+10971,,survey-html-form,16,2.1.0,282472,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,4.0,instrument,tg8wzcbhkm.csv,6,5,2,1,2,4,6
+12816,,survey-html-form,17,2.1.0,295290,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,5.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,3
+11854,,survey-html-form,18,2.1.0,307145,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,21.0,human,tg8wzcbhkm.csv,6,6,6,2,6,5,4
+16535,,survey-html-form,19,2.1.0,323682,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,15.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,4
+14985,,survey-html-form,20,2.1.0,338668,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,14.0,instrument,tg8wzcbhkm.csv,6,5,2,2,2,5,6
+9075,,survey-html-form,21,2.1.0,347745,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,3.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,4
+9807,,survey-html-form,22,2.1.0,357553,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,9.0,human,tg8wzcbhkm.csv,6,6,6,6,6,6,5
+12570,,survey-html-form,23,2.1.0,370126,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,8.0,instrument,tg8wzcbhkm.csv,6,5,2,2,2,4,6
+15717,,survey-html-form,24,2.1.0,385844,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,19.0,human,tg8wzcbhkm.csv,5,6,6,5,6,5,4
+13217,,survey-html-form,25,2.1.0,399063,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,12.0,instrument,tg8wzcbhkm.csv,6,5,2,1,2,5,6
+11430,,survey-html-form,26,2.1.0,410495,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,18.0,instrument,tg8wzcbhkm.csv,6,5,2,1,2,5,6
+12970,,survey-html-form,27,2.1.0,423466,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,23.0,human,tg8wzcbhkm.csv,6,6,6,2,6,2,4
+3391,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,426858,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,,,tg8wzcbhkm.csv,,,,,,,
+51920,,survey,29,3.0.0,478901,610f303cfb519f6dc89edd5f,6980c7c83940647eb7aa7467,6980cdb9cdbfe7c870b000ad,,,tg8wzcbhkm.csv,,,,,,,
+12653,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,12665,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,,,tqc82q1u4g.csv,,,,,,,
+18867,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,31534,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,,,tqc82q1u4g.csv,,,,,,,
+50856,,survey-html-form,2,2.1.0,82392,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,7.0,instrument,tqc82q1u4g.csv,5,6,2,1,1,4,6
+30392,,survey-html-form,3,2.1.0,112786,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,19.0,instrument,tqc82q1u4g.csv,6,6,1,1,1,4,7
+71276,,survey-html-form,4,2.1.0,184062,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,8.0,human,tqc82q1u4g.csv,7,6,6,6,6,6,6
+17964,,survey-html-form,5,2.1.0,202029,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,10.0,human,tqc82q1u4g.csv,6,7,6,6,6,6,6
+16764,,survey-html-form,6,2.1.0,218796,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,2.0,human,tqc82q1u4g.csv,6,6,6,6,6,6,6
+20703,,survey-html-form,7,2.1.0,239502,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,16.0,human,tqc82q1u4g.csv,6,6,6,6,6,6,6
+30273,,survey-html-form,8,2.1.0,269777,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,26.0,human,tqc82q1u4g.csv,6,6,6,6,6,6,6
+35269,,survey-html-form,9,2.1.0,305048,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,9.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+29138,,survey-html-form,10,2.1.0,334190,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,24.0,human,tqc82q1u4g.csv,5,6,6,6,6,4,6
+34447,,survey-html-form,11,2.1.0,368638,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,25.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+22690,,survey-html-form,12,2.1.0,391331,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,23.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+48894,,survey-html-form,13,2.1.0,440226,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,20.0,human,tqc82q1u4g.csv,6,6,6,6,6,6,6
+47479,,survey-html-form,14,2.1.0,487707,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,1.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+39236,,survey-html-form,15,2.1.0,526944,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,22.0,human,tqc82q1u4g.csv,6,6,6,5,6,5,6
+42947,,survey-html-form,16,2.1.0,569893,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,3.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+41194,,survey-html-form,17,2.1.0,611089,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,17.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+57896,,survey-html-form,18,2.1.0,669018,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,6.0,human,tqc82q1u4g.csv,6,6,6,6,6,5,6
+22910,,survey-html-form,19,2.1.0,691931,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,21.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,5,6
+44413,,survey-html-form,20,2.1.0,736345,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,18.0,human,tqc82q1u4g.csv,6,6,6,5,6,5,6
+38238,,survey-html-form,21,2.1.0,774584,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,13.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,4,6
+21910,,survey-html-form,22,2.1.0,796497,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,14.0,human,tqc82q1u4g.csv,6,6,6,5,6,5,6
+36109,,survey-html-form,23,2.1.0,832607,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,4.0,human,tqc82q1u4g.csv,6,6,6,6,6,5,6
+22998,,survey-html-form,24,2.1.0,855609,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,11.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,5,6
+26238,,survey-html-form,25,2.1.0,881849,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,12.0,human,tqc82q1u4g.csv,6,6,6,6,6,6,6
+24637,,survey-html-form,26,2.1.0,906488,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,15.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,5,6
+36407,,survey-html-form,27,2.1.0,942897,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,5.0,instrument,tqc82q1u4g.csv,5,6,1,1,1,5,6
+11383,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,954284,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,,,tqc82q1u4g.csv,,,,,,,
+67637,,survey,29,3.0.0,1022073,63a519bb6eeff2ad74314b53,6980c7c83940647eb7aa7467,6980cdb67bda551cd61b333b,,,tqc82q1u4g.csv,,,,,,,
+6678,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,6690,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,,,uy7da0ck95.csv,,,,,,,
+17487,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,24180,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,,,uy7da0ck95.csv,,,,,,,
+57528,,survey-html-form,2,2.1.0,81711,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,15.0,instrument,uy7da0ck95.csv,2,2,1,1,1,1,6
+44921,,survey-html-form,3,2.1.0,126634,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,1.0,instrument,uy7da0ck95.csv,1,4,1,1,1,2,6
+31219,,survey-html-form,4,2.1.0,157856,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,5.0,instrument,uy7da0ck95.csv,5,2,2,1,2,4,6
+26472,,survey-html-form,5,2.1.0,184330,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,9.0,instrument,uy7da0ck95.csv,2,2,2,1,2,5,7
+38961,,survey-html-form,6,2.1.0,223293,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,22.0,human,uy7da0ck95.csv,6,7,5,5,6,5,4
+36292,,survey-html-form,7,2.1.0,259587,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,8.0,human,uy7da0ck95.csv,5,6,5,6,6,5,3
+35822,,survey-html-form,8,2.1.0,295412,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,11.0,instrument,uy7da0ck95.csv,3,5,1,1,1,5,6
+33187,,survey-html-form,9,2.1.0,328601,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,7.0,instrument,uy7da0ck95.csv,3,6,2,1,1,3,6
+27917,,survey-html-form,10,2.1.0,356520,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,2.0,human,uy7da0ck95.csv,6,6,5,6,6,6,4
+51895,,survey-html-form,11,2.1.0,408417,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,18.0,human,uy7da0ck95.csv,7,6,3,6,5,3,4
+163176,,survey-html-form,12,2.1.0,571595,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,25.0,instrument,uy7da0ck95.csv,2,5,1,5,1,2,6
+25952,,survey-html-form,13,2.1.0,597549,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,10.0,human,uy7da0ck95.csv,6,6,3,6,6,6,3
+26262,,survey-html-form,14,2.1.0,623813,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,3.0,instrument,uy7da0ck95.csv,5,2,2,2,1,5,7
+36344,,survey-html-form,15,2.1.0,660159,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,4.0,human,uy7da0ck95.csv,6,6,2,6,6,5,3
+90405,,survey-html-form,16,2.1.0,750566,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,12.0,human,uy7da0ck95.csv,6,6,3,6,6,4,3
+27450,,survey-html-form,17,2.1.0,778018,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,13.0,instrument,uy7da0ck95.csv,2,2,1,1,1,2,7
+23596,,survey-html-form,18,2.1.0,801615,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,16.0,human,uy7da0ck95.csv,6,6,3,6,6,5,3
+45746,,survey-html-form,19,2.1.0,847363,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,14.0,human,uy7da0ck95.csv,6,6,3,6,3,4,3
+29043,,survey-html-form,20,2.1.0,876408,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,26.0,human,uy7da0ck95.csv,6,6,3,2,3,6,4
+28940,,survey-html-form,21,2.1.0,905350,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,21.0,instrument,uy7da0ck95.csv,5,2,5,5,5,5,6
+22874,,survey-html-form,22,2.1.0,928226,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,20.0,human,uy7da0ck95.csv,6,6,3,6,5,4,3
+31790,,survey-html-form,23,2.1.0,960018,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,6.0,human,uy7da0ck95.csv,6,6,3,6,3,5,4
+28825,,survey-html-form,24,2.1.0,988845,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,23.0,instrument,uy7da0ck95.csv,6,2,5,6,3,6,2
+24813,,survey-html-form,25,2.1.0,1013660,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,17.0,instrument,uy7da0ck95.csv,3,3,5,5,5,5,6
+43932,,survey-html-form,26,2.1.0,1057594,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,24.0,human,uy7da0ck95.csv,6,6,3,2,5,3,3
+31611,,survey-html-form,27,2.1.0,1089206,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,19.0,instrument,uy7da0ck95.csv,6,3,5,5,5,6,6
+5649,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,1094856,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,,,uy7da0ck95.csv,,,,,,,
+98530,,survey,29,3.0.0,1193552,651eea44194fa8c200606af7,6980c7c83940647eb7aa7467,6980d08a77a5af234638bdf0,,,uy7da0ck95.csv,,,,,,,
+42239,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,42251,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,,,x9oxkc4f1y.csv,,,,,,,
+22166,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,64419,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,,,x9oxkc4f1y.csv,,,,,,,
+62368,,survey-html-form,2,2.1.0,126789,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,23.0,human,x9oxkc4f1y.csv,6,7,6,4,5,4,4
+39106,,survey-html-form,3,2.1.0,165895,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,19.0,human,x9oxkc4f1y.csv,2,7,4,4,4,6,5
+48293,,survey-html-form,4,2.1.0,214188,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,21.0,human,x9oxkc4f1y.csv,3,4,6,3,5,7,4
+33422,,survey-html-form,5,2.1.0,247611,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,20.0,instrument,x9oxkc4f1y.csv,6,2,2,7,1,7,7
+25170,,survey-html-form,6,2.1.0,272782,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,14.0,instrument,x9oxkc4f1y.csv,6,1,1,6,1,6,7
+39141,,survey-html-form,7,2.1.0,311924,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,16.0,instrument,x9oxkc4f1y.csv,5,4,3,2,2,5,5
+26071,,survey-html-form,8,2.1.0,337996,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,8.0,instrument,x9oxkc4f1y.csv,5,3,2,2,2,5,6
+42211,,survey-html-form,9,2.1.0,380207,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,7.0,human,x9oxkc4f1y.csv,3,5,5,4,7,6,2
+25420,,survey-html-form,10,2.1.0,405628,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,6.0,instrument,x9oxkc4f1y.csv,6,4,2,2,2,6,6
+25603,,survey-html-form,11,2.1.0,431232,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,10.0,instrument,x9oxkc4f1y.csv,6,2,2,7,2,6,6
+30905,,survey-html-form,12,2.1.0,462138,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,25.0,human,x9oxkc4f1y.csv,6,6,6,4,6,7,2
+31072,,survey-html-form,13,2.1.0,493212,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,5.0,human,x9oxkc4f1y.csv,6,6,6,6,6,6,2
+25803,,survey-html-form,14,2.1.0,519016,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,24.0,instrument,x9oxkc4f1y.csv,5,2,6,6,2,7,7
+23402,,survey-html-form,15,2.1.0,542419,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,2.0,instrument,x9oxkc4f1y.csv,3,2,2,2,2,5,6
+33874,,survey-html-form,16,2.1.0,576293,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,13.0,human,x9oxkc4f1y.csv,6,6,5,6,6,6,4
+17902,,survey-html-form,17,2.1.0,594196,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,17.0,human,x9oxkc4f1y.csv,5,6,6,6,6,6,2
+15502,,survey-html-form,18,2.1.0,609699,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,18.0,instrument,x9oxkc4f1y.csv,6,2,2,5,2,6,6
+24051,,survey-html-form,19,2.1.0,633751,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,12.0,instrument,x9oxkc4f1y.csv,3,2,2,3,2,6,6
+22336,,survey-html-form,20,2.1.0,656089,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,3.0,human,x9oxkc4f1y.csv,6,6,5,5,6,6,2
+28754,,survey-html-form,21,2.1.0,684844,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,9.0,human,x9oxkc4f1y.csv,2,6,6,6,6,6,3
+23455,,survey-html-form,22,2.1.0,708299,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,26.0,instrument,x9oxkc4f1y.csv,6,6,4,6,2,6,6
+35240,,survey-html-form,23,2.1.0,743539,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,11.0,human,x9oxkc4f1y.csv,3,6,5,5,6,6,2
+84451,,survey-html-form,24,2.1.0,827989,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,4.0,instrument,x9oxkc4f1y.csv,4,4,5,5,2,5,6
+21119,,survey-html-form,25,2.1.0,849109,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,1.0,human,x9oxkc4f1y.csv,6,6,6,6,6,6,3
+34072,,survey-html-form,26,2.1.0,883183,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,22.0,instrument,x9oxkc4f1y.csv,2,2,2,5,2,6,6
+29137,,survey-html-form,27,2.1.0,912321,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,15.0,human,x9oxkc4f1y.csv,5,6,5,4,6,6,2
+6165,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,918487,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,,,x9oxkc4f1y.csv,,,,,,,
+110272,,survey,29,3.0.0,1028901,695bf4a038e852c6d3e5f881,6980c7c83940647eb7aa7467,6980cf9709e09e779e996f16,,,x9oxkc4f1y.csv,,,,,,,
+2710,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,2719,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,,,xuyezlzrhe.csv,,,,,,,
+6286,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,9008,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,,,xuyezlzrhe.csv,,,,,,,
+39656,,survey-html-form,2,2.1.0,48667,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,17.0,human,xuyezlzrhe.csv,7,7,5,5,5,5,3
+17232,,survey-html-form,3,2.1.0,65903,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,3.0,human,xuyezlzrhe.csv,7,7,5,5,5,5,3
+14770,,survey-html-form,4,2.1.0,80675,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,26.0,instrument,xuyezlzrhe.csv,7,7,2,2,2,3,7
+14817,,survey-html-form,5,2.1.0,95494,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,14.0,instrument,xuyezlzrhe.csv,7,2,2,2,2,2,7
+15379,,survey-html-form,6,2.1.0,110874,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,6.0,instrument,xuyezlzrhe.csv,7,2,2,2,2,2,7
+10208,,survey-html-form,7,2.1.0,121085,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,22.0,instrument,xuyezlzrhe.csv,7,2,2,2,2,2,7
+23656,,survey-html-form,8,2.1.0,144743,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,4.0,instrument,xuyezlzrhe.csv,3,2,2,2,2,2,7
+14235,,survey-html-form,9,2.1.0,158980,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,10.0,instrument,xuyezlzrhe.csv,3,2,2,2,2,2,7
+13636,,survey-html-form,10,2.1.0,172618,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,13.0,human,xuyezlzrhe.csv,7,7,6,6,6,6,2
+14033,,survey-html-form,11,2.1.0,186654,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,23.0,human,xuyezlzrhe.csv,7,7,6,6,6,6,2
+11224,,survey-html-form,12,2.1.0,197880,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,20.0,instrument,xuyezlzrhe.csv,6,2,2,2,2,2,6
+14528,,survey-html-form,13,2.1.0,212410,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,7.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+9987,,survey-html-form,14,2.1.0,222398,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,15.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+8323,,survey-html-form,15,2.1.0,230723,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,1.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+19827,,survey-html-form,16,2.1.0,250553,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,25.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+9389,,survey-html-form,17,2.1.0,259944,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,5.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+7591,,survey-html-form,18,2.1.0,267536,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,18.0,instrument,xuyezlzrhe.csv,6,2,2,2,2,2,6
+9537,,survey-html-form,19,2.1.0,277074,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,19.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+13452,,survey-html-form,20,2.1.0,290528,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,8.0,instrument,xuyezlzrhe.csv,3,2,2,2,2,2,6
+15545,,survey-html-form,21,2.1.0,306076,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,9.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+9539,,survey-html-form,22,2.1.0,315616,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,16.0,instrument,xuyezlzrhe.csv,3,2,2,2,2,2,6
+11841,,survey-html-form,23,2.1.0,327459,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,11.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+10042,,survey-html-form,24,2.1.0,337502,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,21.0,human,xuyezlzrhe.csv,6,6,6,6,6,6,2
+21654,,survey-html-form,25,2.1.0,359157,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,24.0,instrument,xuyezlzrhe.csv,6,2,2,2,2,6,6
+13556,,survey-html-form,26,2.1.0,372716,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,2.0,instrument,xuyezlzrhe.csv,2,2,2,2,2,2,6
+10240,,survey-html-form,27,2.1.0,382958,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,12.0,instrument,xuyezlzrhe.csv,2,2,2,2,2,2,6
+3483,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,386443,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,,,xuyezlzrhe.csv,,,,,,,
+25934,,survey,29,3.0.0,412445,663cca6f32da191e05406d21,6980c7c83940647eb7aa7467,6980cf135a1b6612451e444d,,,xuyezlzrhe.csv,,,,,,,
+2787,"
+        <div style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+            <img src=""./image/SUSig_2color_Stree_Left.png"" alt=""Stanford Logo"" style=""max-width: 500px; margin-bottom: 20px;"">
+            <h3>DESCRIPTION</h3>
+            <p>You are invited to participate in a research study on language perception. Its purpose is to help us understand what factors influence sentence construction. In the study, you will read a list of sentences and use rating scales to experess your opinions about the events described by each sentence. Following this, you will have the opportunity to complete an optional demographic survey. Participation in this research is voluntary, and you are free to withdraw your consent at any time.</p>
+            <h3>TIME INVOLVEMENT</h3> 
+            <p>Your participation will take approximately 15 minutes.</p>
+            <h3>PAYMENT</h3> 
+            <p>You will be paid at the posted rate.</p>
+            <h3>PRIVACY AND CONFIDENTIALITY</h3> 
+            <p>The risks associated with this study are minimal. This judgment is based on a large body of experience with the same or similar procedures with people of similar ages, sex, origins, etc. Study data will be stored securely, in compliance with Stanford University standards, minimizing the risk of confidentiality breach. Your individual privacy will be maintained during the research and in all published and written data resulting from the study.</p>
+            <h3>CONTACT INFORMATION</h3>
+            <p>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director, Grace Brown, at (616) 498-8188 or grcbrown@stanford.edu. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650) 723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu.</p> 
+            <p>Please save or print a copy of this page for your records</p>
+            <p>If you agree to participate in this research, please click the 'Continue' button.</p>
+        </div>
+    ",html-button-response,0,2.1.0,2793,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,,,yvh3cgnj9o.csv,,,,,,,
+22312,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>During this study, you will see a series of sentences, presented one-by-one. Each sentence will describe an event. It will be followed by 7 statements. You must indicate on a scale how much you agree with each statement. Click along the rating scales to respond. There are a total of 26 trials, and this portion of the study is expected to take 15 minutes.</p>
+        <p>After you complete this task, you will have the opportunity to complete an optional survey.</p>
+        <p>If you understand the instructions and are ready to begin, click ‘Continue’.</p>
+    </div>
+    ",html-button-response,1,2.1.0,25107,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,,,yvh3cgnj9o.csv,,,,,,,
+19548,,survey-html-form,2,2.1.0,44656,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,16.0,human,yvh3cgnj9o.csv,6,6,6,6,6,6,6
+26720,,survey-html-form,3,2.1.0,71377,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,17.0,instrument,yvh3cgnj9o.csv,3,1,1,1,1,1,7
+29439,,survey-html-form,4,2.1.0,100818,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,18.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+17394,,survey-html-form,5,2.1.0,118213,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,14.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+35864,,survey-html-form,6,2.1.0,154079,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,10.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+15232,,survey-html-form,7,2.1.0,169312,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,2.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+22921,,survey-html-form,8,2.1.0,192233,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,9.0,instrument,yvh3cgnj9o.csv,4,1,1,1,1,1,7
+32412,,survey-html-form,9,2.1.0,224647,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,15.0,instrument,yvh3cgnj9o.csv,3,1,1,1,1,1,7
+13263,,survey-html-form,10,2.1.0,237912,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,8.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+19738,,survey-html-form,11,2.1.0,257651,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,20.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+15818,,survey-html-form,12,2.1.0,273469,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,19.0,instrument,yvh3cgnj9o.csv,3,1,1,1,1,1,7
+11722,,survey-html-form,13,2.1.0,285191,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,24.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+12715,,survey-html-form,14,2.1.0,297908,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,7.0,instrument,yvh3cgnj9o.csv,3,1,1,1,1,1,7
+29905,,survey-html-form,15,2.1.0,327815,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,13.0,instrument,yvh3cgnj9o.csv,2,1,1,1,1,1,7
+12314,,survey-html-form,16,2.1.0,340130,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,6.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+20660,,survey-html-form,17,2.1.0,360791,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,4.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+10446,,survey-html-form,18,2.1.0,371237,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,11.0,instrument,yvh3cgnj9o.csv,2,1,1,1,1,1,7
+12256,,survey-html-form,19,2.1.0,383496,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,21.0,instrument,yvh3cgnj9o.csv,2,1,1,1,1,1,7
+7592,,survey-html-form,20,2.1.0,391089,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,22.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+12489,,survey-html-form,21,2.1.0,403580,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,5.0,instrument,yvh3cgnj9o.csv,4,1,1,1,1,1,7
+12335,,survey-html-form,22,2.1.0,415915,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,3.0,instrument,yvh3cgnj9o.csv,4,1,1,1,1,1,7
+11710,,survey-html-form,23,2.1.0,427627,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,25.0,instrument,yvh3cgnj9o.csv,5,1,1,1,1,1,7
+8844,,survey-html-form,24,2.1.0,436471,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,26.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+13788,,survey-html-form,25,2.1.0,450262,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,23.0,instrument,yvh3cgnj9o.csv,5,1,1,1,1,1,7
+9708,,survey-html-form,26,2.1.0,459972,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,12.0,human,yvh3cgnj9o.csv,7,7,7,7,7,7,7
+19861,,survey-html-form,27,2.1.0,479834,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,1.0,instrument,yvh3cgnj9o.csv,3,1,1,1,1,1,7
+4406,"
+    <div class=""gen_ins""; style=""font-size: 16px; text-align: center; margin-top: 25px; margin-right: 100px; margin-left: 100px; margin-bottom: 25px;"">
+        <p>You have completed the rating trials. Next, you will be directed to an optional survey.</p>
+        <p>Please answer any of the questions on the next page that you are comfortable answering. After seeing the survey, you will be able to end the experiment.</p>
+        <p>Click ‘Continue’ to proceed to the survey.</p>
+    </div>
+    ",html-button-response,28,2.1.0,484242,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,,,yvh3cgnj9o.csv,,,,,,,
+26413,,survey,29,3.0.0,510687,5bc0af535ea1020001f9352d,6980c7c83940647eb7aa7467,6980e614a8f44a0224257630,,,yvh3cgnj9o.csv,,,,,,,
